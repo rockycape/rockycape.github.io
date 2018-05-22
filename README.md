@@ -26,7 +26,7 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 ```
 
 
-Syntax highlighted code block
+Syntax highlighted code block example
 ```markdown
 
 
