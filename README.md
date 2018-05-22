@@ -2,7 +2,7 @@
 
 ### javascript apps
 
-[snake.html]
+[Snake App](https://rockycape.github.io/snake.html)
 
 
 
