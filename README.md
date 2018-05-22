@@ -15,7 +15,6 @@
 Hello World App by Rockycape
 
 ```markdown
-Syntax highlighted code block
 chaseme = text('<>',100,100)
 catchme = text('Hello World - You can\'t catch me!',100,500)
                **function** drag() {
