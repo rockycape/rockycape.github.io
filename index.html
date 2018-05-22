@@ -1,0 +1,69 @@
+<canvas id="getcontext" width="400" height="400"></canvas>
+<script>
+	window.onload=function() {
+		canvas=document.getElementById("getcontext");
+		context=canvas.getContext('2d');
+		document.addEventListener("keydown",keyPush);
+		setInterval(game,1000/7)
+}
+xplayerposition=yplayerposition=10;
+gridsize=tilecount=20;
+xapple=yapple=15
+xvelocity=yvelocity=0;
+trail=[];
+tail=5;
+function game() {
+	xplayerposition+=xvelocity
+	yplayerposition+=yvelocity
+	if (xplayerposition<0) {
+		xplayerposition=tilecount-1;
+	}
+	if (xplayerposition>tilecount-1) {
+		xplayerposition=0;
+	}
+	if (yplayerposition<0) {
+		yplayerposition=tilecount-1;
+	}
+	if (yplayerposition>tilecount-1) {
+		yplayerposition=0;
+	}
+	context.fillStyle="black";
+	context.fillRect(0,0,canvas.width,canvas.height);
+	
+	context.fillStyle="lime";
+	for(var i=0;i<trail.length;i++) {
+			context.fillRect(trail[i].x*gridsize,trail[i].y*gridsize,gridsize-2,gridsize-2);
+			if(trail[i].x==xplayerposition && trail[i].y==yplayerposition) {
+				tail=5;
+			}
+	}
+	trail.push({x:xplayerposition,y:yplayerposition});
+	while(trail.length>tail) {
+		trail.shift();
+	}
+	
+	if(xapple==xplayerposition && yapple==yplayerposition) {
+		tail++;
+		xapple=Math.floor(Math.random()*tilecount);
+		yapple=Math.floor(Math.random()*tilecount);
+	}
+	context.fillStyle="red";
+	context.fillRect(xapple*gridsize,yapple*gridsize,gridsize-2,gridsize-2);
+}
+function keyPush(evt) {
+	switch(evt.keyCode) {
+	case 37:
+		xvelocity=-1; yvelocity=0
+		break;
+	case 38:
+		xvelocity=0; yvelocity=-1
+		break;
+	case 39:
+		xvelocity=1; yvelocity=0
+		break;
+	case 40:
+		xvelocity=0; yvelocity=1
+		break;
+	}
+}
+</script>
