@@ -1,16 +1,16 @@
 ## Welcome to CoderDojoBalwyn hosted on GitHub Pages
 
-### javascript apps
+### (a) javascript apps
 
 [Snake App](https://rockycape.github.io/snake.html)
 
 
-### favourite web apps
+### (b) favourite web apps
 
 [QRDROID QR generater](http://qrdroid.com/generate/)
 
 
-### Hello World App
+### (c) Hello World App
 
 Hello World App by Rockycape
 
@@ -24,7 +24,7 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
   }
 }
 ```
-### markdown
+### (d) markdown
 
 Syntax highlighted code block example
 ```markdown
@@ -45,6 +45,7 @@ blah blah blah
 
 [Link](url) and ![Image](src)
 
+### (e) For more details see
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
