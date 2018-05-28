@@ -45,7 +45,15 @@ blah blah blah
 
 [Link](url) and ![Image](src)
 
-### (e) For more details see
+### (e) minecraft commands
+
+To enter any command you need to type "/" key followed by the command and don't forget to hit the "enter" key.
+
+If you are on a multiplayer world and lost and want to find your friends you can teleport directly to them by typing "tp username" where username is the minecraft username of one of your friends who is online at the same time.
+
+
+
+### (f) For more details see
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
