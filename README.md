@@ -3,6 +3,7 @@
 ### (a) javascript apps
 
 [Snake App](https://rockycape.github.io/snake.html)
+
 [Pacman App](https://rockycape.github.io/pacman.html)
 
 ### (b) favourite web apps
