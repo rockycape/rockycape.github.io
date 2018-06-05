@@ -31,7 +31,7 @@ Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/downloa
 
 ### (c) minecraft realms
 
-Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms.  
+Our very own minecraft realm enables the CoderDojoBalwyn ninjas to collaborate on minecraft.  You'll need minecraft JAVA EDITION (PC & MAC) and you need to send us your minecraft username so we can send an invitation to join our minecraft realm.  
 
 IMPORTANT: If you see a glowing green button in the minecraft realms menu this is an option for a 30 day free trial of minecraft realms.   Do not activate this now but save this for later as you don't need it once you've sent us your minecraft username and we've invited you.
 
