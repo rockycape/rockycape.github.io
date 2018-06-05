@@ -1,3 +1,7 @@
+![Image](src)
+
+☯️
+
 ## Welcome to CoderDojoBalwyn hosted on GitHub Pages
 
 
