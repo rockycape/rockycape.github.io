@@ -73,7 +73,7 @@ If you are on a multiplayer world and lost and want to find your friends you can
 
 ### (e) favourite web apps
 
-[QRDROID QR generater](http://qrdroid.com/generate/
+[QRDROID QR generater](http://qrdroid.com/generate/)
 
 ### (f) markdown
 
