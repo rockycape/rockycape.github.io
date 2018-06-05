@@ -4,17 +4,26 @@
 ### (a) tippo10 typing lessons
 
 a1. register at [online.tipp10.com](http://online.tipp10.com)
-a2. navigate to [online.tipp10.com/en/training/](https://online.tipp10.com/en/training/)
-a3. click "+Add / Import lesson"
-a4. Name the lessson "lesson01" on tippo10
-a5. leave Short description blank on tippo10
-a5. copy the text from the text box below and copy into the "Content of the lesson" on tippo10
-a6. select the keyboard option on tippo10
-a7. click the "save" button on tippo10
-a8. next select "Entire lesson" option under Duration of Lesson on tippo10
-a9. click the orange "Start Training" button
 
-tippo10 lesson 1
+a2. navigate to [online.tipp10.com/en/training/](https://online.tipp10.com/en/training/)
+
+a3. click "+Add / Import lesson"
+
+a4. Name the lessson "lesson01" on tippo10
+
+a5. leave Short description blank on tippo10
+
+a5. copy the text from the "lesson 1" text box below and copy into the "Content of the lesson" on tippo10
+
+a6. select the keyboard option on tippo10
+
+a7. click the "save" button on tippo10
+
+a8. next select "Entire lesson" option under Duration of Lesson on tippo10
+
+a9. click the orange "Start Training" button on tippo10
+
+lesson 1
 ```markdown
 fjfjfj fjfjfj fjfjfj fjfjfj jjjj ffff jjjj ffff jjjj ffff
 dkdk dkdk dkdk dkdk dddd kkkk dddd kkkk
@@ -22,7 +31,7 @@ slsl slsl slsl slsl ssss llll ssss llll
 a;a; a;a; a;a; a;a; aaaa ;;;; aaaa ;;;;
 fjfjfj fjfjfj fjfjfj fjfjfj jjjj ffff jjjj ffff jjjj ffff
 ```
-tippo10 lesson 2
+lesson 2
 ```markdown
 asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
 asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
