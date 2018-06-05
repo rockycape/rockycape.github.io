@@ -1,4 +1,4 @@
-### ![CoderDojoBalwyn](favicon-16x16.png)  CoderDojoBalwyn hosted on GitHub Pages
+### ![CoderDojoBalwyn](favicon-32x32.png)  CoderDojoBalwyn hosted on GitHub Pages
 
 
 ### (a) Hello World App 
