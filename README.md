@@ -9,7 +9,7 @@ a2. navigate to [online.tipp10.com/en/training/](https://online.tipp10.com/en/tr
 
 a3. click "+Add / Import lesson"
 
-a4. Name the lessson "lesson01" on tippo10
+a4. Name the lessson "lesson1" on tippo10
 
 a5. leave Short description blank on tippo10
 
