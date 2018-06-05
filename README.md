@@ -40,7 +40,7 @@ IMPORTANT: If you see a glowing green button in the minecraft realms menu this i
 
 You'll know you've received an invite when an envelope appears to the right of the minecraft realms menu item.
 
-![minecraft realms evelope appears](https://i.ytimg.com/vi/EMvr9Le_6bU/maxresdefault.jpg)
+![minecraft realms evelope appears](/minecraftrelmsinvitereceived.JPG)
 
 
 
