@@ -35,11 +35,11 @@ Minecraft realms is the multiplayer that we collaborate on.  Once you've got min
 
 IMPORTANT: If you see a glowing green button in the minecraft realms menu this is an option for a 30 day free trial of minecraft realms.   Do not activate this now but save this for later as you don't need it once you've sent us your minecraft username and we've invited you.
 
-![minecraft realms](https://help.mojang.com/customer/portal/attachments/561780)
+![minecraft realms](/minecraftrealmsfreetrial.png)
 
 You'll know you've received an invite when an envelope appears to the right of the minecraft realms menu item.
 
-![minecraft realms evelope appears](/minecraftrelmsinvitereceived.JPG)
+![minecraft realms evelope appears](/minecraftrelmsinvitereceived.png)
 
 
 
