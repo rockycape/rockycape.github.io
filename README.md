@@ -59,7 +59,7 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 
 To enter any command you need to type `/` followed by the command and don't forget to hit the "enter" key.  This is called the "command line".
 
-If you are on a multiplayer world and lost and want to find your friends you can teleport directly to them by typing `\tp username` where username is the minecraft username of one of your friends who is online at the same time. (remember to hit <enter> key)
+If you are on a multiplayer world and lost and want to find your friends you can teleport directly to them by typing `/tp username` where username is the minecraft username of one of your friends who is online at the same time. (remember to hit <enter> key)
 
 If the weather is rainy or snowy you can clear it up by typing `/weather clear`
 
