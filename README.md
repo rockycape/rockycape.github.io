@@ -1,9 +1,5 @@
-![Image](src)
 
-☯️
-
-## Welcome to CoderDojoBalwyn hosted on GitHub Pages
-
+## Welcome to ☯️ CoderDojoBalwyn hosted on GitHub Pages
 
 ### (a) tippo10 typing lessons
 
