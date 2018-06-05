@@ -70,9 +70,13 @@ Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/downloa
 
 ### (e) minecraft realms
 
+Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms.  
+
+Note: If you see a glowing green button in the minecraft realms menu this is an option for a 30 day free trial of minecraft realms.   Do not activate this now but save this for later as you don't need it once you've send us your minecraft username and we've invited you.
+
 ![minecraft realms](https://help.mojang.com/customer/portal/attachments/561780)
 
-Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms. You'll know you've received an invite when an envelope appears to the right of the minecraft realms menu item.
+You'll know you've received an invite when an envelope appears to the right of the minecraft realms menu item.
 
 ![minecraft realms evelope appears](https://i.ytimg.com/vi/EMvr9Le_6bU/maxresdefault.jpg)
 
