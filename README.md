@@ -59,7 +59,7 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 
 You may want to buy minecraft  - AUD$35.00 per ninja
 
-IMPORTANT There is more than one version of minecraft. To make sure that the ninjas can collaborate together it is important to buy minecraft JAVA EDITION (PC & MAC)
+IMPORTANT: There is more than one version of minecraft. To make sure that the ninjas can collaborate together it is important to buy minecraft JAVA EDITION (PC & MAC)
 
 Step 1 - Buy minecraft here --> [https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/)
 Step 2a - PC - Download minecraft here --> [https://launcher.mojang.com/download/MinecraftInstaller.msi](https://launcher.mojang.com/download/MinecraftInstaller.msi)
@@ -72,7 +72,7 @@ Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/downloa
 
 Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms.  
 
-Note: If you see a glowing green button in the minecraft realms menu this is an option for a 30 day free trial of minecraft realms.   Do not activate this now but save this for later as you don't need it once you've send us your minecraft username and we've invited you.
+IMPORTANT: If you see a glowing green button in the minecraft realms menu this is an option for a 30 day free trial of minecraft realms.   Do not activate this now but save this for later as you don't need it once you've send us your minecraft username and we've invited you.
 
 ![minecraft realms](https://help.mojang.com/customer/portal/attachments/561780)
 
