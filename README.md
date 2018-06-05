@@ -126,6 +126,8 @@ blah blah blah
 
 ### (h) github pages
 [customising css and html in your jekyll theme on github pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
+[how to add a favicon to github pages](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460)
+
 
 
 
