@@ -73,6 +73,9 @@ Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/downloa
 Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms.
 
 
+
+![minecraft realms](https://help.mojang.com/customer/portal/attachments/561780)
+
 ### (f) minecraft commands 
 
 To enter any command you need to type `/` followed by the command and don't forget to hit the "enter" key.  This is called the "command line".
@@ -97,6 +100,8 @@ What  are your favourate commands in minecraft?
 
 [QRDROID QR generater](http://qrdroid.com/generate/)
 
+<!
+
 ### (i) markdown
 
 Syntax highlighted code block example
@@ -118,7 +123,9 @@ blah blah blah
 
 [Link](url) and ![Image](src)
 
-### (j) For more details see 
+>
+
+### (i) For more details see 
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
