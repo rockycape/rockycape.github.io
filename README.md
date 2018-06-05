@@ -8,6 +8,8 @@
 
 ### ![CoderDojoBalwyn](favicon-32x32.png) CoderDojoBalwyn hosted on GitHub Pages
 
+### ![CoderDojoBalwyn](test.gif) CoderDojoBalwyn hosted on GitHub Pages
+
 ### (a) tippo10 typing lessons
 
 a1. register at [online.tipp10.com](http://online.tipp10.com)
