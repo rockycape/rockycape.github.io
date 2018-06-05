@@ -140,6 +140,6 @@ blah blah blah
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-![CoderDojoOrg](/coderdojoorg.png)
+![CoderDojoOrg](CoderDojoOrg.png)
 
 
