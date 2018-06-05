@@ -1,5 +1,5 @@
-
-## Welcome to ☯️ CoderDojoBalwyn hosted on GitHub Pages
+![CoderDojoBalwyn](favicon-32x32.png)
+### CoderDojoBalwyn hosted on GitHub Pages
 
 ### (a) tippo10 typing lessons
 
@@ -108,6 +108,7 @@ What  are your favourate commands in minecraft?
 [QRDROID QR generater](http://qrdroid.com/generate/)
 
 <!--
+☯️
 
 ### (x) markdown
 
