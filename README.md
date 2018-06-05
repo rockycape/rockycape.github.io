@@ -55,7 +55,26 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 }
 ```
 
-### (c) minecraft commands 
+### (d) minecraft
+
+You may want to buy minecraft  - AUD$35.00 per ninja) 
+
+IMPORTANT There is more than one version of minecraft. To make sure that the ninjas can collaborate together it is important to buy minecraft JAVA EDITION (PC & MAC)
+
+Step 1 - Buy minecraft here --> [https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/)
+Step 2a - PC - Download minecraft here --> [https://launcher.mojang.com/download/MinecraftInstaller.msi](https://launcher.mojang.com/download/MinecraftInstaller.msi)
+Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/download/Minecraft.dmg](https://launcher.mojang.com/download/Minecraft.dmg)
+
+
+
+
+### (e) minecraft realms
+
+
+
+
+
+### (f) minecraft commands 
 
 To enter any command you need to type `/` followed by the command and don't forget to hit the "enter" key.  This is called the "command line".
 
@@ -69,17 +88,17 @@ What  are your favourate commands in minecraft?
 
 
 
-### (d) javascript apps 
+### (g) javascript apps 
 
 [Snake App](https://rockycape.github.io/snake.html)
 
 [Pacman App](https://rockycape.github.io/pacman.html)
 
-### (e) favourite web apps
+### (h) favourite web apps
 
 [QRDROID QR generater](http://qrdroid.com/generate/)
 
-### (f) markdown
+### (i) markdown
 
 Syntax highlighted code block example
 ```markdown
@@ -100,7 +119,7 @@ blah blah blah
 
 [Link](url) and ![Image](src)
 
-### (f) For more details see 
+### (j) For more details see 
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
