@@ -1,7 +1,7 @@
 
 ## Welcome to ☯️ CoderDojoBalwyn hosted on GitHub Pages
 
-### (a) tippo10 typing lessons
+### (a) tippo10 typing lessons :dog:
 
 a1. register at [online.tipp10.com](http://online.tipp10.com)
 
@@ -40,7 +40,7 @@ asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
 asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
 ```
 
-### (b) Hello World App
+### (b) Hello World App :hamster:
 
 Hello World App by Rockycape - You can simply select and then copy the code below and past into a new blank app on bitsbox.com
 
@@ -55,7 +55,7 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 }
 ```
 
-### (c) minecraft commands
+### (c) minecraft commands :tiger:
 
 To enter any command you need to type "/" key followed by the command and don't forget to hit the "enter" key.
 
@@ -65,17 +65,17 @@ If you are on a multiplayer world and lost and want to find your friends you can
 
 
 
-### (d) javascript apps
+### (d) javascript apps :koala:
 
 [Snake App](https://rockycape.github.io/snake.html)
 
 [Pacman App](https://rockycape.github.io/pacman.html)
 
-### (e) favourite web apps
+### (e) favourite web apps :cat:
 
 [QRDROID QR generater](http://qrdroid.com/generate/)
 
-### (f) markdown
+### (f) markdown :whale:
 
 Syntax highlighted code block example
 ```markdown
@@ -96,7 +96,7 @@ blah blah blah
 
 [Link](url) and ![Image](src)
 
-### (f) For more details see
+### (f) For more details see :dolphin:
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
