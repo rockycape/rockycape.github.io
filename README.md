@@ -1,5 +1,4 @@
-![CoderDojoBalwyn](coderdojoorangewhitebackgroundclear.gif) 
-### CoderDojoBalwyn hosted on GitHub Pages
+### ![CoderDojoBalwyn](favicon-16x16.png)  CoderDojoBalwyn hosted on GitHub Pages
 
 
 ### (a) Hello World App 
