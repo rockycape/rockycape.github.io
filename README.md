@@ -16,9 +16,11 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 }
 ```
 
-### (b) minecraft
+### (b) what is minecraft?
 
-You may want to buy minecraft  - AUD$35.00 per ninja
+It's a game about placing blocks and going on adventures. Minecraft is set in infinitely-generated worlds of wide open terrain - icy mountains, swampy bayous, vast pastures and much more - filled with secrets, wonders and peril!
+
+To buy minecraft will cost AUD$35.00 per ninja.
 
 IMPORTANT: There is more than one version of minecraft. To make sure that the ninjas can collaborate together it is important to buy minecraft JAVA EDITION (PC or MAC)
 
