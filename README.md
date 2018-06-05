@@ -70,11 +70,14 @@ Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/downloa
 
 ### (e) minecraft realms
 
-Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms.
-
-
-
 ![minecraft realms](https://help.mojang.com/customer/portal/attachments/561780)
+
+Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms. You'll know you've received an invite when an envelope appears to the right of the minecraft realms menu item.
+
+![minecraft realms evelope appears](https://i.ytimg.com/vi/EMvr9Le_6bU/maxresdefault.jpg)
+
+
+
 
 ### (f) minecraft commands 
 
