@@ -100,7 +100,7 @@ What  are your favourate commands in minecraft?
 
 [QRDROID QR generater](http://qrdroid.com/generate/)
 
-<!
+<!--
 
 ### (i) markdown
 
