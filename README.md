@@ -57,7 +57,7 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 
 ### (d) minecraft
 
-You may want to buy minecraft  - AUD$35.00 per ninja) 
+You may want to buy minecraft  - AUD$35.00 per ninja
 
 IMPORTANT There is more than one version of minecraft. To make sure that the ninjas can collaborate together it is important to buy minecraft JAVA EDITION (PC & MAC)
 
@@ -70,8 +70,7 @@ Step 2b - mac - Download minecraft here --> [https://launcher.mojang.com/downloa
 
 ### (e) minecraft realms
 
-
-
+Minecraft realms is the multiplayer that we collaborate on.  Once you've got minecraft JAVA EDITION (PC & MAC) you need to send us your minecraft username so we can send an invitation to minecraft realms.
 
 
 ### (f) minecraft commands 
