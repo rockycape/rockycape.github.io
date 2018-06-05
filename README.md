@@ -6,7 +6,7 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-### ![CoderDojoBalwyn](favicon-32x32.png) CoderDojoBalwyn hosted on GitHub Pages
+### ![CoderDojoBalwyn](coderdojoorangewhitebackgroundclear.gif) CoderDojoBalwyn hosted on GitHub Pages
 
 ### (a) tippo10 typing lessons
 
