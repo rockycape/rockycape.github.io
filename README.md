@@ -22,9 +22,12 @@ You may want to buy minecraft  - AUD$35.00 per ninja
 
 IMPORTANT: There is more than one version of minecraft. To make sure that the ninjas can collaborate together it is important to buy minecraft JAVA EDITION (PC or MAC)
 
-Step 1 - [Buy minecraft here](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/)
+Step 1 - [Buy minecraft here](https://minecraft.net/en-us/store/](https://minecraft.net/en-us/store/)
+
 Step 2a - PC - [Download minecraft for PC here](https://launcher.mojang.com/download/MinecraftInstaller.msi)
+
 Step 2b - mac - [Download minecraft for mac here](https://launcher.mojang.com/download/Minecraft.dmg)
+
 
 
 
