@@ -138,6 +138,19 @@ blah blah blah
 
 [how to backup and restore your minecraft realms world]( https://www.howtogeek.com/237491/how-to-backup-and-restore-your-minecraft-realms-worlds/)
 
+### (j) minecraft logs MAC
+
+do this before starting your minecraft session to view the logs of your previous session
+
+1. open terminal
+2. type "open ~/Library/Application\ Support/" which opens finder
+3. in finder open the minecraft folder
+4. navigate to logs
+5. copy latestlogs
+6. open the copy and take a look at the commands and actions you took in your previous sesssion
+
+
+
 
 ### (j) For more details see 
 
