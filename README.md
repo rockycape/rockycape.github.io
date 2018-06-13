@@ -60,6 +60,17 @@ If the weather is rainy or snowy you can clear it up by typing `/weather clear`
 
 What  are your favourate commands in minecraft?
 
+### setting up minecraft makecode environment (requires PC with Windows10)
+
+[instructions on how microsoft are currently giving away minecraft WINDOWS10 EDITION to owners of minecraft JAVA EDITION](https://help.mojang.com/customer/en/portal/articles/2064007-minecraft-for-windows-10)
+
+If you've been following along with information on minecraft on this webpage so far then the first thing you'll notice is that we recommended you purchase minecraft JAVA EDITION.  One of the added benefits of following this advice is that microsoft are currently giving away minecraft WINDOWS10 EDITION to owners of minecraft JAVA EDITION (see link above this paragraph).   This is important because it makes it possible to setup minecraft makecode which requires a both a PC with Windows10 and minecraft WINDOWS10 EDITION.  (Mac/XBOX One users are currently not able to setup minecraft makecode)
+
+[how to set up minecraft makecode environment](https://minecraft.makecode.com/setup)
+
+
+
+
 ### (e) typing lessons with webapp tippo10
 
   a1. register at [online.tipp10.com](http://online.tipp10.com)
