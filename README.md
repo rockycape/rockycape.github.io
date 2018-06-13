@@ -156,6 +156,5 @@ do this before starting your minecraft session to view the logs of your previous
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-![CoderDojoOrg](CoderDojoOrg.png)
 
 
