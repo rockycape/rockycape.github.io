@@ -60,7 +60,7 @@ If the weather is rainy or snowy you can clear it up by typing `/weather clear`
 
 What  are your favourate commands in minecraft?
 
-### setting up minecraft makecode environment (requires PC with Windows10)
+### (e) setting up minecraft makecode environment (requires PC with Windows10)
 
 [instructions on how microsoft are currently giving away minecraft WINDOWS10 EDITION to owners of minecraft JAVA EDITION](https://help.mojang.com/customer/en/portal/articles/2064007-minecraft-for-windows-10)
 
@@ -71,7 +71,7 @@ If you've been following along with information on minecraft on this webpage so 
 
 
 
-### (e) typing lessons with webapp tippo10
+### (f) typing lessons with webapp tippo10
 
   a1. register at [online.tipp10.com](http://online.tipp10.com)
   a2. navigate to [online.tipp10.com/en/training/](https://online.tipp10.com/en/training/)
@@ -104,7 +104,7 @@ asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
 
 
 
-### (f) javascript apps 
+### (g) javascript apps 
 
 [Snake App](https://rockycape.github.io/snake.html)
 
