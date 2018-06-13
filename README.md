@@ -110,9 +110,38 @@ asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
 
 [Pacman App](https://rockycape.github.io/pacman.html)
 
-### (g) favourite web apps
+### (h) favourite web apps
 
 [QRDROID QR generater](http://qrdroid.com/generate/)
+
+
+
+### (i) github pages
+[customising css and html in your jekyll theme on github pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
+
+[how to add a favicon to github pages](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460)
+
+### (j) minecraft realms links
+
+[how to backup and restore your minecraft realms world]( https://www.howtogeek.com/237491/how-to-backup-and-restore-your-minecraft-realms-worlds/)
+
+### (k) minecraft logs MAC
+
+do this before starting your minecraft session to view the logs of your previous session
+
+1. open terminal
+2. type "open ~/Library/Application\ Support/" which opens finder
+3. in finder open the minecraft folder
+4. navigate to logs
+5. copy latestlogs
+6. open the copy and take a look at the commands and actions you took in your previous sesssion
+
+
+
+
+### (l) For more details see 
+
+For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 <!--
 ☯️
@@ -139,33 +168,4 @@ blah blah blah
 [Link](url) and ![Image](src)
 
 -->
-
-### (h) github pages
-[customising css and html in your jekyll theme on github pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
-
-[how to add a favicon to github pages](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460)
-
-### (i) minecraft realms links
-
-[how to backup and restore your minecraft realms world]( https://www.howtogeek.com/237491/how-to-backup-and-restore-your-minecraft-realms-worlds/)
-
-### (j) minecraft logs MAC
-
-do this before starting your minecraft session to view the logs of your previous session
-
-1. open terminal
-2. type "open ~/Library/Application\ Support/" which opens finder
-3. in finder open the minecraft folder
-4. navigate to logs
-5. copy latestlogs
-6. open the copy and take a look at the commands and actions you took in your previous sesssion
-
-
-
-
-### (j) For more details see 
-
-For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-
 
