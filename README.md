@@ -68,7 +68,7 @@ If you've been following along with information on minecraft on this webpage so 
 
 [how to set up minecraft makecode environment](https://minecraft.makecode.com/setup)
 
-
+[minecraft makecode magic ADVANCED ninja](http://minecraftmakecodemagic.blogspot.com/)
 
 
 ### (f) typing lessons with webapp tippo10
