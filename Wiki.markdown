@@ -243,6 +243,15 @@ It is highly recommended to install MarkdownEditing with [Package Control](http
 3.  Type *Install Package* and hit `Enter` to display a list of available packages.
 4.  Type *MarkdownEditing* and hit `Enter` to install the package.
 
+### (i) Jekyll
+
+Remember once you've installed Jekyll locally on your Mac
+1. Open terminal and navigate to the root folder for your static site
+2. start Jekyll with:
+```
+jekyll serve
+```
+
 <!--
 ☯️
 
