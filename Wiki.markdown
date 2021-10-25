@@ -7,7 +7,6 @@ This wiki page is a collection of bits and pieces of info.
 
 For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)  
 
-![image](https://user-images.githubusercontent.com/19771537/138620742-9bbbfefd-97d5-4506-920d-8deac77bc7d9.png)
 
 ### (a) Hello World App
 
