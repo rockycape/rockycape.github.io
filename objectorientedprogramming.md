@@ -4,10 +4,6 @@ title: "Object-Oriented Programming"
 permalink: /Object-Oriented-Programming/
 ---
 
-
-=================================
-
-
 By
 
 -   [Alexander S. Gillis,](https://www.techtarget.com/contributor/Alexander-S-Gillis) Technical Writer and Editor
