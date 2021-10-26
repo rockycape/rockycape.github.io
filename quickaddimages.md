@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QuickAddImages
+title: "QuickAddImages"
 permalink: /QuickAddImages/
 ---
 
