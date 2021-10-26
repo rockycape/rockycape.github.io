@@ -1,6 +1,6 @@
 ---
 layout: page
-title: object-oriented programming
+title: "Object-Oriented Programming"
 ---
 
 
