@@ -4,8 +4,6 @@ title: "Exploring Australia's Volcanic Past"
 ---
 
 
-**Exploring Australia's Volcanic Past**
-
 
 -   09 JULY 2021
 -   15 MINS
