@@ -253,6 +253,21 @@ Remember once you've installed Jekyll locally on your Mac
 jekyll serve
 ```
 
+### (j) [youtube-dl](http://ytdl-org.github.io/youtube-dl/download.html)
+
+steps to get up and running with youtube-dl for a vanilla Mac install as follows:
+
+1. install brew ((Home)brew on its own acts like a command-line App Store. It's safe if you know what you're downloading)
+2. brew install youtube-dl (youtube-dl is a solution to download streamed audio and video)
+3. brew install ffmpeg (FFmpeg is a solution to record, convert and stream audio and video)
+
+NB youtube-dl is able to download streamed video from ABC iview via the terminal:
+
+```
+youtube-dl https://iview.abc.net.au/blah/blah/blah
+```
+
+
 <!--
 ☯️
 
