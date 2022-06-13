@@ -96,7 +96,7 @@ t.pendown()
 for c in range(360):
     t.pencolor(colour[c % 6])
     t.forward(c)
-    t.left(59)h
+    t.left(59)
 ```
 
 ![jupyter turtle drawing](assets/jupyterturtledrawing.jpg) <!-- This works for jpeg in assets folder below root -->
