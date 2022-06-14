@@ -246,8 +246,8 @@ Best Practice for writing with Markdown
 
 Remember you are not installing anything locally on your PC/Mac but are installing on Github on the internet so the first requirement is to already have or create a github account.
 
-1. log in to your github account
-2. go to ---> [https://github.com/new/import](https://github.com/new/import)
+1. sign in to your github account at [github.com](github.com) 
+2. go to ---> [https://github.com/new/import](https://github.com/new/import) 
 3. import the following existing repository ---> [https://github.com/jekyll/minima](https://github.com/jekyll/minima)
 4. configure your new website and then add content 
 
