@@ -8,7 +8,7 @@ This wiki page is a collection of bits and pieces of info.
 For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)  
 
 
-### (a) Hello World App
+### (a) Hello World App ( try this at bitsbox.com )
 
 Hello World App by Rockycape - You can simply select and then copy the code below and past into a new blank app on bitsbox.com  
 
@@ -24,6 +24,8 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 ```
 
 ### (b) javascript apps  
+
+[How to learn javascript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 
 [Snake App](https://rockycape.github.io/snake.html)  
 
@@ -244,14 +246,16 @@ It is highly recommended to install MarkdownEditing with [Package Control](http
 3.  Type *Install Package* and hit `Enter` to display a list of available packages.
 4.  Type *MarkdownEditing* and hit `Enter` to install the package.
 
-### (i) Jekyll
+### (i) Create a great looking website using Jekyll minima theem and host for free on Github Pages
 
-Remember once you've installed Jekyll locally on your Mac
-1. Open terminal and navigate to the root folder for your static site
-2. start Jekyll with:
-```
-jekyll serve
-```
+Remember you are not installing anything locally on your PC/Mac but are installing on Github on the internet so the first requirement is to already have or create a github account.
+
+1. log in to your github account
+2. go to ---> [https://github.com/new/import](https://github.com/new/import)
+3. import the following existing repository ---> [https://github.com/jekyll/minima](https://github.com/jekyll/minima)
+4. configure your new website and then add content 
+
+<!--
 
 ### (j) [youtube-dl](http://ytdl-org.github.io/youtube-dl/download.html)
 
@@ -268,8 +272,7 @@ youtube-dl https://iview.abc.net.au/blah/blah/blah
 ```
 
 
-<!--
-☯️
+
 
 ### (f) markdown
 
