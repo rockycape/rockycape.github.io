@@ -255,7 +255,7 @@ Remember you are not installing anything locally on your PC/Mac but are installi
 3. import the following existing repository ---> [https://github.com/jekyll/minima](https://github.com/jekyll/minima)
 4. configure your new website and then add content 
 
-<!--
+<!--  
 
 ### (j) [youtube-dl](http://ytdl-org.github.io/youtube-dl/download.html)
 
