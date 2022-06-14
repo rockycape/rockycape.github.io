@@ -42,14 +42,22 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 
 
 
-### (d) github pages
+### (d) github.com & vscode.dev
+
+Microsoft have a couple of good webapps that may help you with your coding.  
+
+The first webapp is called github.com 
+Create yourself a free github account and take a look further down this page for some of things you can do with it including creating your own website.
+
+The second webapp is called vscode.dev
+
+You may want to write or edit your code or Markdown with vscode.dev which is Microsoft's code editor
+
+### (e) github pages  
+
 [customising css and html in your jekyll theme on github pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)  
 
-[how to add a favicon to github pages](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460)  
-
-
-
-### (e) For more details see 
+[how to add a favicon to github pages](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460) 
 
 For more details see [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) or  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  
 
@@ -232,21 +240,9 @@ Best Practice for writing with Markdown
 [Markdown summary sheet](https://www.markdownguide.org/cheat-sheet/)  
 [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
-### (k) Sublime Text
 
-You may want to edit your Markdown with a text editor like Sublime Text.  To make it easier to visualise the formatting of ending a line with two or more spaces we have installed both **Package Control** and then **MarkdownEditing** to Sublime Text:  
 
-### Package Control
----------------
-
-It is highly recommended to install MarkdownEditing with [Package Control](https://packagecontrol.io/) as it automatically installs required dependencies and keeps all packages up to date.
-
-1.  [Install Package Control](https://packagecontrol.io/installation) if you haven't yet.
-2.  Open Command Palette (`Ctrl` + `Shift` + `P` (Windows, Linux) or `⌘` + `⇧` + `P` on Mac)
-3.  Type *Install Package* and hit `Enter` to display a list of available packages.
-4.  Type *MarkdownEditing* and hit `Enter` to install the package.
-
-### (i) Create a great looking website using Jekyll minima theem and host for free on Github Pages
+### (l) Create a great looking website using Jekyll minima theem and host for free on Github Pages
 
 Remember you are not installing anything locally on your PC/Mac but are installing on Github on the internet so the first requirement is to already have or create a github account.
 
