@@ -46,12 +46,12 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
 
 Microsoft have a couple of good webapps that may help you with your coding.  
 
-The first webapp is called github.com 
+The first webapp is called [github.com](github.com) 
 Create yourself a free github account and take a look further down this page for some of things you can do with it including creating your own website.
 
-The second webapp is called vscode.dev
+The second webapp is called [vscode.dev](vscode.dev)
 
-You may want to write or edit your code or Markdown with vscode.dev which is Microsoft's code editor
+You may want to write or edit your code or Markdown with vscode.dev which is Microsoft's code editor. Conveniently you can start using vscode.dev by signing in with your github username and password.
 
 ### (e) github pages  
 
