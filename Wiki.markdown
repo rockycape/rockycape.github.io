@@ -242,7 +242,7 @@ Best Practice for writing with Markdown
 
 
 
-### (l) Create a great looking website using Jekyll minima theem and host for free on Github Pages
+### (l) Create a great looking website using Jekyll minima theme and host for free on Github Pages
 
 Remember you are not installing anything locally on your PC/Mac but are installing on Github on the internet so the first requirement is to already have or create a github account.
 
@@ -250,6 +250,11 @@ Remember you are not installing anything locally on your PC/Mac but are installi
 2. go to ---> [https://github.com/new/import](https://github.com/new/import) 
 3. import the following existing repository ---> [https://github.com/jekyll/minima](https://github.com/jekyll/minima)
 4. configure your new website and then add content 
+
+
+### (m) Embed youtube videos on your Jeckyll minima website hosted for free on Github Pages
+
+[https://github.com/nathancy/jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video)
 
 <!--  
 
