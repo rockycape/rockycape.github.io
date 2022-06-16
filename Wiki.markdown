@@ -8,9 +8,9 @@ This wiki page is a collection of bits and pieces of info.
 For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)  
 
 
-### (a) Hello World App ( try this at bitsbox.com )
+### (a) Bitsbox.com Apps
 
-Hello World App by Rockycape - You can simply select and then copy the code below and past into a new blank app on bitsbox.com  
+Hello World App - You can simply select and then copy the code below and past into a new blank app on bitsbox.com  
 
 ```markdown
 chaseme = text('<>',100,100)
@@ -22,6 +22,109 @@ catchme = text('Hello World - You can\'t catch me!',100,500)
   }
 }
 ```
+
+
+Monster Invaders App - You can simply select and then copy the code below and past into a new blank app on bitsbox.com  
+
+```markdown
+fill('pixel sky')
+counter = 1
+step = 30
+points = 0
+speed = 16
+hero = stamp('pixel knight', 386, 880)
+score = text(points, 345, 50, 'white')
+message = text('Ready?', 300, 500, 50, 'white')
+
+
+function tap() {
+  sound('laser')
+  shot = stamp('pixel sword', hero.x-50, hero.y)
+  shot.move(NORTH, 1500, 2000)
+  hero.move(x + 50, hero.y, 500)
+}
+
+
+function animate() {}
+
+
+function column(i) {
+  x = i * 110
+  stamp('cyclops', x, 100)
+  stamp('cyclops', x, 180)
+  stamp('cyclops', x, 260)
+  stamp('cyclops', x, 340)
+}
+
+
+function spawn() {
+  message.change('')
+  repeat(column, 5)
+  loop = animate
+}
+delay(spawn, 2000)
+
+
+function logic() {}
+
+
+function march(alien) {
+  alien.move(alien.x + step, alien.y)
+}
+
+
+function check(sword) {
+  strikes = sword.hits('cyclops')
+  if (strikes.length > 0) {
+    sound('hit')
+    strikes[0].explode()
+    sword.hide()
+    points = points + 100
+    score.change(points)
+  }
+}
+
+
+function animate() {
+  find('pixel sword').forEach(check)
+  counter = counter + 1
+  if (counter>= speed) {
+    counter = 1
+    sound('putt putt')
+    aliens = find('cyclops')
+    aliens.forEach(march)
+    logic()
+  }
+}
+
+
+function drop(alien) {
+  alien.move(DOWN)
+}
+
+
+function logic() {
+  if (offscreen(aliens)) {
+    step = -step
+    aliens.forEach(drop)
+    aliens.forEach(march)
+  }
+ if (aliens.length == 0) {
+   loop = null
+   message.change('Next wave.')
+   speed = speed-2
+   delay(spawn, 2000)
+ }
+  if (hero.hits('cyclops')) {
+    hero.explode()
+    message.change('Game over')
+  }
+}
+
+```
+
+
+
 
 ### (b) javascript apps  
 
