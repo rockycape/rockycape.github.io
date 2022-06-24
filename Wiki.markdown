@@ -8,6 +8,11 @@ This wiki page is a collection of bits and pieces of info.
 For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)  
 
 
+|a|b|c|
+|--- | --- | ---|
+|`code block`|`code block`|`code block`|
+|`code block`|`code block`|`code block`|
+
 ### (a) Bitsbox.com Apps
 
 Hello World App - You can simply select and then copy the code below and past into a new blank app on bitsbox.com  
