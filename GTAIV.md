@@ -3,45 +3,18 @@ layout: page
 title: "GTAIV"
 ---
 
-***GTAIV Radio Playslists on Spotify***
-
-[The Beat 102.7 Radio GTAIV](https://open.spotify.com/playlist/1NpeX7SdfLdPmQSrO1baKJ)
-
-[The Classics 104.1 Radio GTAIV](https://open.spotify.com/playlist/2FaorU2d9x75IHcDI0a5GF)
-
-[Electro-Choc Radio GTAIV](https://open.spotify.com/playlist/5bX3iDnZUbuISHicKjdkxO)
-
-[Fusion FM Radio GTAIV](https://open.spotify.com/playlist/6X9LVacOdhPhNnPz695IQq)
-
-[IF99 GTAIV](https://open.spotify.com/playlist/3Q77Xwal91t4Tf322PNSFu)
-
-[The Journey Radio GTAIV](https://open.spotify.com/playlist/00yNAfYcug6WWphfNL9UyE)
-
-[JNR Jazz Nation Radio GTAIV](https://open.spotify.com/playlist/2aPWcJXrXqG5mMxPFjZqpZ)
-
-[K109 The Studio GTAIV](https://open.spotify.com/playlist/479scD9v0SUVK2EpyXpVYF)
-
-[Liberty City Hardcore Radio GTAIV](https://open.spotify.com/playlist/7j5tAMUPNuhRFDcP1iClui)
-
-[Liberty Rock Radio GTAIV](https://open.spotify.com/playlist/7fPsKKi3wguO9qD6LzCdjC)
-
-[Massive B Soundsystem 96.9 Radio GTAIV](https://open.spotify.com/playlist/0s26q54k4iBpCjPrl4Dp5C)
-
-[Radio Broker GTAIV](https://open.spotify.com/playlist/0E8j9Bx0biVKLh9vdSXvYM)
-
-[RamJam FM Radio GTAIV](https://open.spotify.com/playlist/2CwnWq3cVtYpOmi9lVUiQH)
-
-[San Juan Sounds Radio GTAIV](https://open.spotify.com/playlist/1llfqQ0cKK2ybwgSVuAS4h)
-
-[Self-Actualization FM Radio GTAIV](https://open.spotify.com/playlist/3wdn0MMGJz99in7mXkdh8G)
-
-[Tuff Gong Radio GTAIV](https://open.spotify.com/playlist/0cIUxOwBxLRIHOB3jO1Otb)
-
-[The Vibe 98.8 Radio GTAIV](https://open.spotify.com/playlist/4Fg9S20VVaVjOM1iTuqoEh)
-
-[Vice City FM Radio GTAIV](https://open.spotify.com/playlist/5BLnAx7QmU6UKmTLmQLJx4)
-
-[Vladivostok FM Radio GTAIV](https://open.spotify.com/playlist/0qXgySHbOxwHlvqX48cfuv)
+| GTAIV Radio Playslists on Spotify |  |
+|---|---|
+| [The Beat 102.7 Radio GTAIV](https://open.spotify.com/playlist/1NpeX7SdfLdPmQSrO1baKJ) | [Massive B Soundsystem 96.9 Radio GTAIV](https://open.spotify.com/playlist/0s26q54k4iBpCjPrl4Dp5C) |
+| [The Classics 104.1 Radio GTAIV](https://open.spotify.com/playlist/2FaorU2d9x75IHcDI0a5GF) | [Radio Broker GTAIV](https://open.spotify.com/playlist/0E8j9Bx0biVKLh9vdSXvYM) |
+| [Electro-Choc Radio GTAIV](https://open.spotify.com/playlist/5bX3iDnZUbuISHicKjdkxO) | [RamJam FM Radio GTAIV](https://open.spotify.com/playlist/2CwnWq3cVtYpOmi9lVUiQH) |
+| [Fusion FM Radio GTAIV](https://open.spotify.com/playlist/6X9LVacOdhPhNnPz695IQq) | [San Juan Sounds Radio GTAIV](https://open.spotify.com/playlist/1llfqQ0cKK2ybwgSVuAS4h) |
+| [IF99 GTAIV](https://open.spotify.com/playlist/3Q77Xwal91t4Tf322PNSFu) | [Self-Actualization FM Radio GTAIV](https://open.spotify.com/playlist/3wdn0MMGJz99in7mXkdh8G) |
+| [The Journey Radio GTAIV](https://open.spotify.com/playlist/00yNAfYcug6WWphfNL9UyE) | [Tuff Gong Radio GTAIV](https://open.spotify.com/playlist/0cIUxOwBxLRIHOB3jO1Otb) |
+| [JNR Jazz Nation Radio GTAIV](https://open.spotify.com/playlist/2aPWcJXrXqG5mMxPFjZqpZ) | [The Vibe 98.8 Radio GTAIV](https://open.spotify.com/playlist/4Fg9S20VVaVjOM1iTuqoEh) |
+| [K109 The Studio GTAIV](https://open.spotify.com/playlist/479scD9v0SUVK2EpyXpVYF) | [Vice City FM Radio GTAIV](https://open.spotify.com/playlist/5BLnAx7QmU6UKmTLmQLJx4) |
+| [Liberty City Hardcore Radio GTAIV](https://open.spotify.com/playlist/7j5tAMUPNuhRFDcP1iClui) | [Vladivostok FM Radio GTAIV](https://open.spotify.com/playlist/0qXgySHbOxwHlvqX48cfuv) |
+| [Liberty Rock Radio GTAIV](https://open.spotify.com/playlist/7fPsKKi3wguO9qD6LzCdjC) |  |
 
 ***Getting around***
 
