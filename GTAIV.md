@@ -3,27 +3,6 @@ layout: page
 title: "GTAIV"
 ---
 
-***Getting around***
-
-
-At first in the game you can't hail cabs.  After completing "Bull in a China shop" mission you can hail cabs and hire them being charged based on distance.
-
-LB (left bumper) - When on foot LB is whistle to hail a cab.  Next hold Y-button to get into the cab. Note this is different from pressing Y-button which hijacks the cab.  Doesn't matter if the cab is already occupied as you frighten the previous passenger out.
-
-When you are further along in the game, Roman will give you a call to say you can now call him and he will send his cab to you and drive you where you need to go - no charge!   The explanation brief is "Roman now likes you a lot - you can use his special ability. You can call up Roman and select "Car Service" he will send you one of his cabs to pick you up and take you to destinations around the city."
-
-***All savegames***
-
-[https://www.gtainside.com/en/gta4/savegames/139404-my-save-of-gta-4-with-all-missions-completed-for-xbox-360/](https://www.gtainside.com/en/gta4/savegames/139404-my-save-of-gta-4-with-all-missions-completed-for-xbox-360/)
-
-***GTAIV Radio Soundtracks on Youtube***
-
-[GTA Soundtracks - YouTube](https://www.youtube.com/c/GTASoundtracks)
-
-***rockstar games links to GTAIV Radio Soundtracks on iTunes***
-
-[Official Grand Theft Auto Radio Playlists on Spotify and iTunes - Rockstar Games](https://www.rockstargames.com/newswire/article/k49a58878o99ak/official-grand-theft-auto-radio-playlists-on-spotify-and-itunes.html)
-
 ***GTAIV Radio Playslists on Spotify***
 
 [The Beat 102.7 Radio GTAIV](https://open.spotify.com/playlist/1NpeX7SdfLdPmQSrO1baKJ)
@@ -63,4 +42,27 @@ When you are further along in the game, Roman will give you a call to say you ca
 [Vice City FM Radio GTAIV](https://open.spotify.com/playlist/5BLnAx7QmU6UKmTLmQLJx4)
 
 [Vladivostok FM Radio GTAIV](https://open.spotify.com/playlist/0qXgySHbOxwHlvqX48cfuv)
+
+***Getting around***
+
+
+At first in the game you can't hail cabs.  After completing "Bull in a China shop" mission you can hail cabs and hire them being charged based on distance.
+
+LB (left bumper) - When on foot LB is whistle to hail a cab.  Next hold Y-button to get into the cab. Note this is different from pressing Y-button which hijacks the cab.  Doesn't matter if the cab is already occupied as you frighten the previous passenger out.
+
+When you are further along in the game, Roman will give you a call to say you can now call him and he will send his cab to you and drive you where you need to go - no charge!   The explanation brief is "Roman now likes you a lot - you can use his special ability. You can call up Roman and select "Car Service" he will send you one of his cabs to pick you up and take you to destinations around the city."
+
+***All savegames***
+
+[https://www.gtainside.com/en/gta4/savegames/139404-my-save-of-gta-4-with-all-missions-completed-for-xbox-360/](https://www.gtainside.com/en/gta4/savegames/139404-my-save-of-gta-4-with-all-missions-completed-for-xbox-360/)
+
+***GTAIV Radio Soundtracks on Youtube***
+
+[GTA Soundtracks - YouTube](https://www.youtube.com/c/GTASoundtracks)
+
+***rockstar games links to GTAIV Radio Soundtracks on iTunes***
+
+[Official Grand Theft Auto Radio Playlists on Spotify and iTunes - Rockstar Games](https://www.rockstargames.com/newswire/article/k49a58878o99ak/official-grand-theft-auto-radio-playlists-on-spotify-and-itunes.html)
+
+
 
