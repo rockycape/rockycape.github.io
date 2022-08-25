@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "GTAIV on Xbox360"
+layout: page
+title: "GTAIV"
 ---
 
 ***Getting around***
