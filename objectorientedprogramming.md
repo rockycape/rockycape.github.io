@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Object-Oriented Programming"
-permalink: /Object-Oriented-Programming/
+permalink: /Object-Oriented/
 ---
 
 By
