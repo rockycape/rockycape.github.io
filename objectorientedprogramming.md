@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Object-Oriented Programming"
+title: "Object-Oriented"
 permalink: /Object-Oriented/
 ---
 
