@@ -17,17 +17,16 @@ title: "GTAIV"
 | [Liberty Rock Radio GTAIV](https://open.spotify.com/playlist/7fPsKKi3wguO9qD6LzCdjC) |  |
 
 
-Roy Ayers - "Funk in the Hole" (2005)
-
-David McCallum - "The Edge" (1967)
-Gong - "Heavy Tune" (1978)
-David Axelrod - "Holy Thursday" (1968)
-Grover Washington Jr - "Knucklehead" (1975)
-Aleksander Maliszewski - "Pokusa"
-Ryo Kawasaki - "Raisins" (1976)
-Marc Moulin - "Stomp" (1974)
-Billy Cobham - "Stratus" (1973)
-Tom Scott & The L.A. Express - "Sneakin' in the Back" (1974)
+Roy Ayers - "Funk in the Hole" (2005) 
+Gong - "Heavy Tune" (1978) 
+David Axelrod - "Holy Thursday" (1968) 
+Grover Washington Jr - "Knucklehead" (1975) 
+Aleksander Maliszewski - "Pokusa" (2006)
+Marc Moulin - "Stomp" (1974) 
+David McCallum - "The Edge" (1967) 
+Ryo Kawasaki - "Raisins" (1976) 
+Billy Cobham - "Stratus" (1973) 
+Tom Scott & The L.A. Express - "Sneakin' in the Back" (1974) 
 
 
 ***Getting around***
