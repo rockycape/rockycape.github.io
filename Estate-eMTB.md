@@ -6,7 +6,7 @@ permalink: /Estate-eMTB/
 
 *Drivetrain Components:*
 
-shimano cassette sprocket cs-hg200-8 (8 speed rear)
+Shimano CS-HG200-8 (8 speed rear) cassette sprocket
 
 ![ShimanoMTBComponentCombatibility](/assets/ShimanoMTBComponentCompatibility.png)  
 
