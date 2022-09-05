@@ -8,5 +8,6 @@ permalink: /Estate-eMTB/
 
 shimano cassette sprocket cs-hg200-8 (8 speed rear)
 
-![ShimanoMTBComponentCombatibility](/assets/ShimanoMTBComponentCompatibility.png)
+![ShimanoMTBComponentCombatibility](/assets/ShimanoMTBComponentCompatibility.png)  
+
 
