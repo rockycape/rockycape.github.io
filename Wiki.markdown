@@ -364,6 +364,24 @@ Remember you are not installing anything locally on your PC/Mac but are installi
 
 [https://github.com/nathancy/jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video)
 
+### (n) Selecting Text in Columns in a PDF on a Mac
+
+A solution to a constant source of frustration for me: I have a PDF --- [like this one](http://www.islandarchives.ca/fedora/repository/vre:islemag-batch2-235/OBJ/04_St_Eleanors_the_veneered_village_p_3-8.pdf) --- that has text formatted in multiple columns:
+
+![PDF with text in columns](https://ruk.ca/sites/ruk.ca/files/media.ruk.ca/multipdf.jpg)
+
+I want to copy some text from the PDF, but when I do this by simply clicking and dragging the mouse, *all* of the columns of text get selected:
+
+![PDF with text in columns, text selected across columns](https://ruk.ca/sites/ruk.ca/files/media.ruk.ca/multipdf2.jpg)
+
+The secret: **use Option + Drag** to select the text. Hold down the Option key, in other words, while you drag a box around the text you want to select:
+
+![PDF with text in columns, text selected from one column](https://ruk.ca/sites/ruk.ca/files/media.ruk.ca/multipdf3.jpg)
+
+The result is *just the text I want, from the single column I want it from*:
+
+> But St. Eleanors was not first settled by the English. In the last quarter of the 18th century, the southern shore of Malpeque Bay was populated by no fewer than 23 Acadian families, several of them refugees from the English expulsion of Acadians in Nova Scotia 20 years earlier. They bore familiar French names like Arsenault, Gallant, Poirier, and Bernard, and they had their own church, a little chapel situated on the east side of Rayner's Creek. Most of the settlement was in Lot 17, which had been acquired in 1767 by two brothers, B. and P. Burke.
+
 <!--  
 
 ### (j) [youtube-dl](http://ytdl-org.github.io/youtube-dl/download.html)
@@ -379,8 +397,6 @@ NB youtube-dl is able to download streamed video from ABC iview via the terminal
 ```
 youtube-dl https://iview.abc.net.au/blah/blah/blah
 ```
-
-
 
 
 ### (f) markdown
