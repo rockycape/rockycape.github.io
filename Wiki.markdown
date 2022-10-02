@@ -382,6 +382,35 @@ The result is *just the text I want, from the single column I want it from*:
 
 > But St. Eleanors was not first settled by the English. In the last quarter of the 18th century, the southern shore of Malpeque Bay was populated by no fewer than 23 Acadian families, several of them refugees from the English expulsion of Acadians in Nova Scotia 20 years earlier. They bore familiar French names like Arsenault, Gallant, Poirier, and Bernard, and they had their own church, a little chapel situated on the east side of Rayner's Creek. Most of the settlement was in Lot 17, which had been acquired in 1767 by two brothers, B. and P. Burke.
 
+
+### (o) AirMessage - Cannot Connect an Account During Server Setup
+
+Cannot Connect an Account During Server Setup
+=============================================
+
+Hi there,
+
+I had AirMessage running before upgrading to 4.x, and now upon setting up my server again I click "Connect an Account", then the below popup to allow AirMessage to use localhost, then it opens Chrome and nothing happens.
+
+I've been trying to figure out if I had made a home network change or something, but this happens when I'm on my phone's hotspot as well. And I couldn't find any resolution in the help docs.
+
+Any one else having this problem?
+
+-----
+
+[jtking51](https://www.reddit.com/user/jtking51/)
+
+Update: So I read a post further down talking about this same issue and they said they had to let Airmessage open chrome, meaning it couldn't be open already. I installed chrome, opened it, then closed it changed it to my default browser. Opened Airmessage and clicked the Connect an account option. It opened Chrome and I had the option to login to my google account finally. Give that a try.
+
+-----
+
+Update: After reading the above I set Safari as my default browser and then opened Airmessage server (on my Mac) and clicked the Connect an account option. It opened Safari and I had the option to login to my google account finally.
+
+
+
+
+
+
 <!--  
 
 ### (j) [youtube-dl](http://ytdl-org.github.io/youtube-dl/download.html)
