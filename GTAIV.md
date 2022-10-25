@@ -66,3 +66,5 @@ When you are further along in the game, Roman will give you a call to say you ca
 
 
 ![LIberty City Map with street names](/assets/Liberty_City_Road_Map_12.webp)
+
+![GTA4 Armor Map](/assets/GTA4%20Armor%20Map.jpeg)
