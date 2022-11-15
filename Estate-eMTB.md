@@ -8,6 +8,8 @@ Let's start with the battery as it is probably the most expensive part that like
 
 *Battery Details*
 
+![](assets/eMTBbattery.jpeg)
+
 Reention EEL MINI 36v 10ah battery - this is the battery that is originally supplied with the Estate eMTB  
 
 Note: There is a physically larger battery called the Reention EEL PRO and this form factor is too large and does not fit the Estate eMTB.  There is also a larger capacity battery than origianlly supplied with Estate eMTB that fits and it is still 36V but is 14ah up from 10ah  
