@@ -3,9 +3,8 @@ layout: page
 title: "Wiki"
 ---
 
-This wiki page is a collection of bits and pieces of info.  
+This wiki page is a collection of bits and pieces of info relating to computer science for kids 7 - 70! 
 
-For further information click [CoderDojoBalwyn @ Balwyn Library](https://zen.coderdojo.com/dojos/au/balwyn-vic/balwyn-balwyn-library) or [CoderDojoBalwyn Website](https://balwynau.wixsite.com/coderdojo)  
 
 
 |a|b|c|

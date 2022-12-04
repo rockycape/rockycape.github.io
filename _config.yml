@@ -1,9 +1,9 @@
-title: CoderDojoBalwyn
+title: rockycape
 author:
-  name: CoderDojoBalwyn champion  
-  email: balwyn.au@coderdojo.com 
+  name:   
+  email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  This website provides information about what we're up to and resources for our CoderDojoBalwyn Ninjas.
+  This website provides information about what we're up to and resources.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
