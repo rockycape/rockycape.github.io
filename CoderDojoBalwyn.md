@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CoderDojoBalwyn"
-permalink: /coderdojobalwym/
+permalink: /coderdojobalwyn/
 ---
 
 
