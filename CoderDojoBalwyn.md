@@ -11,8 +11,10 @@ Welcome to this CoderDojoBalwyn website.  CoderDojo is a free coding club for ki
 
 As of 2023 CoderDojoBalwyn no longer has a local group meetup after Boroondara Libraries decided to run STEM for kids in-house.
 
- CoderDojoBalwyn thanks Boroondara Libraries for providing a room at Balwyn Library and ticketing over the years.
+CoderDojoBalwyn thanks Boroondara Libraries for providing a room at Balwyn Library and ticketing over the years.
 
-Below is a screenshot of the CoderDojoBalwyn website which was used to promote the club.
+Below is a screenshot of the CoderDojoBalwyn website which was used to promote the club.   
+
+###![CoderDojoBalwynWebsite](CoderDojoBalwynWebsiteImage.jpg) CoderDojoBalwynWebsite
+
 ![CoderDojoBalwynWebsite](CoderDojoBalwynWebsiteImage.jpg)
-
