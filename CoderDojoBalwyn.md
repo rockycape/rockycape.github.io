@@ -15,3 +15,4 @@ As of 2023 CoderDojoBalwyn no longer has a local group meetup after Boroondara L
 
 Below is a screenshot of the CoderDojoBalwyn website which was used to promote the club.
 ![CoderDojoBalwynWebsite](CoderDojoBalwynWebsiteImage.jpg)
+
