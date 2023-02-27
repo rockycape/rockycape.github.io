@@ -15,6 +15,6 @@ CoderDojoBalwyn thanks Boroondara Libraries for providing a room at Balwyn Libra
 
 Below is a screenshot of the CoderDojoBalwyn website which was used to promote the club.   
 
-###![CoderDojoBalwynWebsite](CoderDojoBalwynWebsiteImage.jpg) CoderDojoBalwynWebsite
+### ![CoderDojoBalwynWebsite](CoderDojoBalwynWebsiteImage.jpg) CoderDojoBalwynWebsite
 
 ![CoderDojoBalwynWebsite](CoderDojoBalwynWebsiteImage.jpg)
