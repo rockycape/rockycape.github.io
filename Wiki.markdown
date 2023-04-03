@@ -408,12 +408,13 @@ Update: After reading the above I set Safari as my default browser and then open
 
 ### (p) importing AVCHD video files from Sony Alpha NEX-F3 camera SD card to apple mac and converting to MP4 via Handbrake
 
-a. Put the SD card into the apple mac
-b. Navigate to PRIVATE folder and select AVCHD file
-c. right click AVCHD file and choose *show package contents*
-d. select BDMV file and choose *show package contents*
-e. click to open *STREAM folder* to reveal .MTS files
-f. select a .MTS and open in Handbrake to convert to MP4
+a. Put the SD card into the apple mac  
+b. Navigate to PRIVATE folder and select AVCHD file  
+c. right click AVCHD file and choose *show package contents*  
+d. select BDMV file and choose *show package contents*  
+e. click to open *STREAM folder* to reveal .MTS files  
+f. select a .MTS and open in Handbrake to convert to MP4  
+
 
 
 
