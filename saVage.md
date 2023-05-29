@@ -13,3 +13,10 @@ As of May 2023 all of saVage's team left team Encore.  Looking forward to the ne
   
 
 ![CoderDojoBalwynWebsite](/assets/CoderDojoBalwynWebsiteImage.jpg)
+
+![](/assets/saVage-and-team-part-ways-with-Encore.png)  
+
+![](/assets/Encore-ranking-2022-2023.png)  
+
+![](/assets/counterstrike-CSGO-Encore-Esports-Club-2023-05-29.jpg)  
+
