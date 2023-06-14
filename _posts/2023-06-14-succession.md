@@ -16,10 +16,6 @@ Slate Money
 
 Slate Money: Succession: S2E10: "Thank You For the Chicken"
 
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-
-4 sec left
-
  
 
 [](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/NTY3ZGYzOTgtYjUyYy0xMWU5LWE0OWUtODMzMjMzNmY2YmFm?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
