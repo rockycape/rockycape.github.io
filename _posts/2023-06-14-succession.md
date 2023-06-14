@@ -18,7 +18,7 @@ Slate Money: Succession: S2E10: "Thank You For the Chicken"
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/NTY3ZGYzOTgtYjUyYy0xMWU5LWE0OWUtODMzMjMzNmY2YmFm?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/NTY3ZGYzOTgtYjUyYy0xMWU5LWE0OWUtODMzMjMzNmY2YmFm?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -34,7 +34,7 @@ Completed
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MzZiOTU2MDAtZWY5My0xMWU5LThhNzYtZTdhYjY3MGU2M2Rj?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MzZiOTU2MDAtZWY5My0xMWU5LThhNzYtZTdhYjY3MGU2M2Rj?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -50,7 +50,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/YzkzOTQxYTgtMTdiOC0xMWVjLWJmZDAtZmY4Y2U0YWJmMWZk?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/YzkzOTQxYTgtMTdiOC0xMWVjLWJmZDAtZmY4Y2U0YWJmMWZk?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -66,7 +66,7 @@ This week, Felix Salmon, Emily Peck and Stacy-Marie Ishmael talk about spoiled 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/YTg4ZjI0MzQtMDMyZi0xMWViLWFlNjAtZDNhNWJiM2IyNTY4?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/YTg4ZjI0MzQtMDMyZi0xMWViLWFlNjAtZDNhNWJiM2IyNTY4?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -82,7 +82,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives o
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/OTYzYzk3OTItMTRjOS0xMWVjLWE4MGEtN2I1YTEzZWY2Mzgw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/OTYzYzk3OTItMTRjOS0xMWVjLWE4MGEtN2I1YTEzZWY2Mzgw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -98,7 +98,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/OTY1ZTM1YzgtMTRjOS0xMWVjLWE4MGEtNmY5MmQ2ZDlmM2U3?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/OTY1ZTM1YzgtMTRjOS0xMWVjLWE4MGEtNmY5MmQ2ZDlmM2U3?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -114,7 +114,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MDAwODE1OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MDAwODE1OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -130,7 +130,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MDc1MTgzNg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MDc1MTgzNg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -146,7 +146,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MTUyNTI1OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MTUyNTI1OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -162,7 +162,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MjM3OTU1NA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MjM3OTU1NA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -178,7 +178,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0Mjk2NDM2MA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0Mjk2NDM2MA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -194,7 +194,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0Mzc3MzIyMA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0Mzc3MzIyMA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -210,7 +210,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0NDgzNzA5OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0NDgzNzA5OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -226,7 +226,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by author a
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwNTc3MDE2MQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwNTc3MDE2MQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -242,7 +242,7 @@ Felix Salmon, Emily Peck and Elizabeth Spiers are joined by The New Yorker's Cla
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwNjgxOTQzMg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwNjgxOTQzMg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -258,7 +258,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by Slate's Lizzie O'Le
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwODI1MTQ1MQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwODI1MTQ1MQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -274,7 +274,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by graphic designer Mi
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwOTA5NDA5Nw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwOTA5NDA5Nw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -290,7 +290,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by Peter Kafka of Vox.
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMDA5NDk3Mg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMDA5NDk3Mg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -306,7 +306,7 @@ Felix Salmon, Emily Peck and Elizabeth Spiers are joined by Ed Lee of the New Yo
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMTA1MDE5NQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMTA1MDE5NQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -322,7 +322,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined this week by a star-st
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMTkzMTc1Mw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMTkzMTc1Mw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -338,7 +338,7 @@ This week, Felix Salmon, Emily Peck, Elizabeth Spiers, and guest Euan Rellie dis
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMjg5NjMxMg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMjg5NjMxMg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -354,7 +354,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by filmmake
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMzczMTQ3MA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMzczMTQ3MA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
@@ -370,4 +370,4 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
 
  
 
-[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/ZGQyNDI2N2MtYzgwMy0xMWVkLTgwZTMtYjNlNmI3NjFiYzli?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
+[](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/ZGQyNDI2N2MtYzgwMy0xMWVkLTgwZTMtYjNlNmI3NjFiYzli?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
