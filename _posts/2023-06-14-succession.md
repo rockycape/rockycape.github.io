@@ -26,7 +26,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices
 
 4 sec left
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/NTY3ZGYzOTgtYjUyYy0xMWU5LWE0OWUtODMzMjMzNmY2YmFm?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -42,7 +42,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives o
 
 Completed
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MzZiOTU2MDAtZWY5My0xMWU5LThhNzYtZTdhYjY3MGU2M2Rj?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -58,7 +58,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 27 min left
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/YzkzOTQxYTgtMTdiOC0xMWVjLWJmZDAtZmY4Y2U0YWJmMWZk?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -74,7 +74,7 @@ This week, Felix Salmon, Emily Peck and Stacy-Marie Ishmael talk about spoiled 
 
 52 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/YTg4ZjI0MzQtMDMyZi0xMWViLWFlNjAtZDNhNWJiM2IyNTY4?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -90,7 +90,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives o
 
 44 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/OTYzYzk3OTItMTRjOS0xMWVjLWE4MGEtN2I1YTEzZWY2Mzgw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -106,7 +106,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 48 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/OTY1ZTM1YzgtMTRjOS0xMWVjLWE4MGEtNmY5MmQ2ZDlmM2U3?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -122,7 +122,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 54 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MDAwODE1OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -138,7 +138,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 1 hr 1 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MDc1MTgzNg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -154,7 +154,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 58 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MTUyNTI1OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -170,7 +170,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 1 hr 1 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0MjM3OTU1NA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -186,7 +186,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 48 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0Mjk2NDM2MA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -202,7 +202,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 1 hr
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0Mzc3MzIyMA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -218,7 +218,7 @@ Slate Money is obsessed with Succession, HBO's wonderful drama about the lives 
 
 54 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDU0NDgzNzA5OA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -234,7 +234,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by author a
 
 1 hr 1 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwNTc3MDE2MQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -250,7 +250,7 @@ Felix Salmon, Emily Peck and Elizabeth Spiers are joined by The New Yorker's Cla
 
 1 hr 5 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwNjgxOTQzMg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -266,7 +266,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by Slate's Lizzie O'Le
 
 1 hr 5 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwODI1MTQ1MQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -282,7 +282,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by graphic designer Mi
 
 1 hr 2 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYwOTA5NDA5Nw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -298,7 +298,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by Peter Kafka of Vox.
 
 48 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMDA5NDk3Mg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -314,7 +314,7 @@ Felix Salmon, Emily Peck and Elizabeth Spiers are joined by Ed Lee of the New Yo
 
 57 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMTA1MDE5NQ?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -330,7 +330,7 @@ Felix Salmon, Emily Peck, and Elizabeth Spiers are joined this week by a star-st
 
 1 hr 8 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMTkzMTc1Mw?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -346,7 +346,7 @@ This week, Felix Salmon, Emily Peck, Elizabeth Spiers, and guest Euan Rellie dis
 
 51 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMjg5NjMxMg?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -362,7 +362,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by filmmake
 
 54 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/MTAwMDYxMzczMTQ3MA?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)[
 
@@ -378,6 +378,6 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
 
 1 hr 5 min
 
-playlist_add_check
+ 
 
 ](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/ZGQyNDI2N2MtYzgwMy0xMWVkLTgwZTMtYjNlNmI3NjFiYzli?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU)
