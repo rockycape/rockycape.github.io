@@ -12,7 +12,7 @@ author:
 \
 Your queue
 
-[
+
 
 ![Slate Money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRnUwLpB3xE1VX8r3sUoEA0JHaz8RdO7B5-rspZVyyRRiEgs)
 
