@@ -371,3 +371,343 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
  
 
 [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc2xhdGVtb25leQ/episode/ZGQyNDI2N2MtYzgwMy0xMWVkLTgwZTMtYjNlNmI3NjFiYzli?sa=X&ved=0CAIQx8UHahgKEwjQuZrXkML_AhUAAAAAHQAAAAAQ1gU) 
+
+
+2.  -   JUN 1, 2023
+
+    [Succession Director Mark Mylod Had to "Walk a Tight Rope" To Nail the Finale](https://podcasts.apple.com/us/podcast/succession-director-mark-mylod-had-to-walk-a-tight/id1328561705?i=1000615265949)
+
+    Succession Director Mark Mylod Had to "Walk a Tight Rope" To Nail the Finale
+
+    --------------------------------------------------------------------------------
+
+    On a special bonus episode of Still Watching, Mylod reveals how he shaped the Roy family's demise: "It's about the cruelty of hope." Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   31 min
+
+3.  -   MAY 31, 2023
+
+    [Saying a Final Farewell to the Roys with Jeremy Strong](https://podcasts.apple.com/us/podcast/saying-a-final-farewell-to-the-roys-with-jeremy-strong/id1328561705?i=1000615029966)
+
+    Saying a Final Farewell to the Roys with Jeremy Strong
+
+    ----------------------------------------------------------
+
+    On Still Watching, hosts Richard Lawson and Chris Murphy and TV correspondent Joy Press unpack the tragic ending for the Roy family. Plus, an in-depth conversation with Jeremy Strong about filming the finale. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   57 min
+
+4.  -   MAY 30, 2023
+
+    [Succession Episode 10: We Have A Successor](https://podcasts.apple.com/us/podcast/succession-episode-10-we-have-a-successor/id1328561705?i=1000614892734)
+
+    Succession Episode 10: We Have A Successor
+
+    ----------------------------------------------
+
+    Richard and Chris share their initial impressions of the series finale. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   17 min
+
+5.  -   MAY 22, 2023
+
+    [Succession Episode 9: What Is Logan Roy's Legacy?](https://podcasts.apple.com/us/podcast/succession-episode-9-what-is-logan-roys-legacy/id1328561705?i=1000613924587)
+
+    Succession Episode 9: What Is Logan Roy's Legacy?
+
+    -----------------------------------------------------
+
+    On the penultimate episode of Succession, the series presents conflicting views of Logan as the Roy patriarch is laid to rest. Plus, a conversation with Alan Ruck. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr
+
+6.  -   MAY 15, 2023
+
+    [Succession Episode 8: Succession's Unbearable Election Episode Felt Like 2016 All Over Again](https://podcasts.apple.com/us/podcast/succession-episode-8-successions-unbearable-election/id1328561705?i=1000613005698)
+
+    Succession Episode 8: Succession's Unbearable Election Episode Felt Like 2016 All Over Again
+
+    ------------------------------------------------------------------------------------------------
+
+    Still Watching hosts Richard Lawson and Chris Murphy break down the PTSD-triggering "America Decides," while David Canfield chats with Justin Kirk about playing neo-fascist Jeryd Mencken. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   52 min
+
+7.  -   MAY 8, 2023
+
+    [Succession Episode 7: Can Shiv and Tom Come Back From This?](https://podcasts.apple.com/us/podcast/succession-episode-7-can-shiv-and-tom-come-back-from-this/id1328561705?i=1000612109584)
+
+    Succession Episode 7: Can Shiv and Tom Come Back From This?
+
+    ---------------------------------------------------------------
+
+    On this week's episode of Still Watching, Richard Lawson and Chris Murphy unpack Shiv and Tom's epic fight, Kendall's poor parenting skills, and the fallout of Roman's big moves. Plus, interviews with Peter Friedman and David Rasche. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   56 min
+
+8.  -   MAY 1, 2023
+
+    [Succession Episode 6: Kendall Is Cringe, But Is He Free?](https://podcasts.apple.com/us/podcast/succession-episode-6-kendall-is-cringe-but-is-he-free/id1328561705?i=1000611247980)
+
+    Succession Episode 6: Kendall Is Cringe, But Is He Free?
+
+    ------------------------------------------------------------
+
+    On this week's episode of Still Watching, Richard Lawson and Chris Murphy unpack Kendall's corny but effective product launch for Waystar Royco's newest venture. Plus, an in-depth interview with the episode's director, Lorene Scafaria. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr
+
+9.  -   APR 24, 2023
+
+    [Succession Episode 5: Are Kendall and Roman Failing Upwards?](https://podcasts.apple.com/us/podcast/succession-episode-5-are-kendall-and-roman-failing-upwards/id1328561705?i=1000610330808)
+
+    Succession Episode 5: Are Kendall and Roman Failing Upwards?
+
+    ----------------------------------------------------------------
+
+    On this week's episode of Still Watching, Richard Lawson and Chris Murphy break down the winners and losers of "Kill Lists." Plus, a conversation with J. Smith Cameron. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   57 min
+
+10. -   APR 17, 2023
+
+    [Succession Episode 4: Shiv and Kendall Face the Future](https://podcasts.apple.com/us/podcast/succession-episode-4-shiv-and-kendall-face-the-future/id1328561705?i=1000609216426)
+
+    Succession Episode 4: Shiv and Kendall Face the Future
+
+    ----------------------------------------------------------
+
+    After the most shocking episode of the series to date, Still Watching hosts Richard Lawson and Chris Murphy chat with PR expert Risa Heller about her advice for the Roys, and discuss the future of the Roy dynasty. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   56 min
+
+11. -   APR 11, 2023
+
+    [Succession Episode 3: Logan Roy Has Left The Building](https://podcasts.apple.com/us/podcast/succession-episode-3-logan-roy-has-left-the-building/id1328561705?i=1000608267135)
+
+    Succession Episode 3: Logan Roy Has Left The Building
+
+    ---------------------------------------------------------
+
+    Still Watching hosts Richard Lawson and Chris Murphy unpack the seismic, life altering event that occurred during "Connor's Wedding" the third episode of the final season of Succession. Plus, VF's Julie Miller chats with Succession actress Justine Lupe about Willa's wedding day. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   54 min
+
+12. -   APR 3, 2023
+
+    [Succession Episode 2: What Is Logan Roy Sorry For, Really?](https://podcasts.apple.com/us/podcast/succession-episode-2-what-is-logan-roy-sorry-for-really/id1328561705?i=1000607041830)
+
+    Succession Episode 2: What Is Logan Roy Sorry For, Really?
+
+    --------------------------------------------------------------
+
+    The Roy kids have a heart-to-heart with Logan in the unlikeliest of places. Still Watching hosts Richard Lawson and Chris Murphy break down the episode with guest Bess Levin. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   51 min
+
+13. -   MAR 27, 2023
+
+    [Succession Premiere: The Roy Children Finally Notch a Win Against Logan](https://podcasts.apple.com/us/podcast/succession-premiere-the-roy-children-finally-notch/id1328561705?i=1000606001848)
+
+    Succession Premiere: The Roy Children Finally Notch a Win Against Logan
+
+    ---------------------------------------------------------------------------
+
+    Succession returns for its fourth and final season---and Still Watching is here to unpack the Roy children's big purchase, the dissolution of Tom and Shiv's marriage, and what, exactly, happened to Anne Pierce in Maine. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   46 min
+
+14. -   MAR 23, 2023
+
+    [Still Watching Is Back for Succession's Grand Finale](https://podcasts.apple.com/us/podcast/still-watching-is-back-for-successions-grand-finale/id1328561705?i=1000605530893)
+
+    Still Watching Is Back for Succession's Grand Finale
+
+    --------------------------------------------------------
+
+    Vanity Fair's TV podcast returns to cover the Emmy-winning drama, whose fourth and final season premieres Sunday. Spring is in the air, and it's time to pick an heir. Succession returns for its fourth and final season on Sunday, March 26th---and Still Watching, Vanity Fair's TV analysis podcast, is all over it. Hosts Richard Lawson and Chris Murphy will dive deep into the final 10 episodes of the Emmy-winning series---which remains as "sleek and engaging" as ever in its last round, according to Lawson's review. We'll be unpacking everything from deliciously devastating Roy family drama to the show's greatest one-liners and sharpest insults. "What is the moral of the story for Succession?" asks Murphy on Still Watching. The answer may depend on ends up in charge of Waystar Royco by series' end. Throughout the season, Lawson and Murphy will make their predictions as to who, if anyone, will inherit the WayStar Royco throne, while also interviewing key members of the cast and crew. The beginning of the end for Succession kicks off this Sunday, with a brand new episode of Still Watching dropping right after the episode airs. Tune in, or in the words of Logan Roy, "F--- off." Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   13 min
+
+
+49. -   DEC 14, 2021
+
+    [Still Watching: Succession Season 3 - "All the Bells Say"](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-all-the-bells-say/id1328561705?i=1000544840118)
+
+    Still Watching: Succession Season 3 - "All the Bells Say"
+
+    -------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the finale episode of the third season, "All the Bells Say" which aired Sunday December 12th on HBO. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr
+
+50. -   DEC 6, 2021
+
+    [Still Watching: Succession Season 3 - "Chiantishire" with Harriet Walter](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-chiantishire-with/id1328561705?i=1000544044277)
+
+    Still Watching: Succession Season 3 - "Chiantishire" with Harriet Walter
+
+    ----------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the penultimate episode of the third season, "Chiantishire" which aired Sunday December 5th on HBO. This podcast also features Sonia in conversation with Harriet Walter who plays Lady Caroline Collingwood. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 24 min
+
+51. -   NOV 29, 2021
+
+    [Still Watching: Succession Season 3 - "Too Much Birthday" with Lorene Scafaria](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-too-much-birthday/id1328561705?i=1000543319225)
+
+    Still Watching: Succession Season 3 - "Too Much Birthday" with Lorene Scafaria
+
+    ----------------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the seventh episode of the third season, "Too Much Birthday" which aired Sunday November 28th on HBO and might be the saddest episode of Succession. This podcast also features Richard in conversation with this episode's director Lorene Scafaria. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 16 min
+
+52. -   NOV 22, 2021
+
+    [Still Watching: Succession Season 3 - "What It Takes" with Zoe Winters and Justine Lupe](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-what-it-takes-with/id1328561705?i=1000542658949)
+
+    Still Watching: Succession Season 3 - "What It Takes" with Zoe Winters and Justine Lupe
+
+    -------------------------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the sixth episode of the third season, "What It Takes" which aired Sunday November 21st on HBO. This podcast also features Sonia in conversation with Zoe Winters who plays Kerry and Justine Lupe who plays Willa Ferreyra on the show. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 24 min
+
+53. -   NOV 15, 2021
+
+    [Still Watching: Succession Season 3 - "Retired Janitors of Idaho" with Matthew Macfadyen and Sarah Snook](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-retired-janitors/id1328561705?i=1000541903619)
+
+    Still Watching: Succession Season 3 - "Retired Janitors of Idaho" with Matthew Macfadyen and Sarah Snook
+
+    ------------------------------------------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the fifth episode of the third season, the oddly-named "Retired Janitors of Idaho" which aired Sunday November 14th on HBO. This podcast also features Vanity Fair's Joy Press interviewing Matthew Macfadyen and Sarah Snook, who play Tom and Shiv on the show. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 23 min
+
+54. -   NOV 11, 2021
+
+    ["The Wilderness" with Monica Lewinsky - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/the-wilderness-with-monica-lewinsky-still/id1328561705?i=1000541371270)
+
+    "The Wilderness" with Monica Lewinsky - Still Watching American Crime Story Impeachment
+
+    -------------------------------------------------------------------------------------------
+
+    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week, Vanity Fair's Julie Miller joins Richard and Katey to cover the finale of the series "The Wilderness" which aired Tuesday November 9th on FX. This episode features Katey's conversation with Monica Lewinsky, who produced American Crime Story: Impeachment and looks back on the series and real life events. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 28 min
+
+55. -   NOV 8, 2021
+
+    [Still Watching: Succession Season 3 - "Lion in the Meadow" with Adrien Brody and Nicholas Braun](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-lion-in-the-meadow/id1328561705?i=1000541062272)
+
+    Still Watching: Succession Season 3 - "Lion in the Meadow" with Adrien Brody and Nicholas Braun
+
+    ---------------------------------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the fourth episode of the third season, "Lion in the Meadow" which aired Sunday November 7th on HBO. This podcast also features interviews with Nicholas Braun, who plays Cousin Greg and Adrien Brody who appears as Josh Aaronson. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 27 min
+
+56. -   NOV 3, 2021
+
+    ["The Grand Jury" with Sarah Paulson - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/the-grand-jury-with-sarah-paulson-still-watching/id1328561705?i=1000540576573)
+
+    "The Grand Jury" with Sarah Paulson - Still Watching American Crime Story Impeachment
+
+    -----------------------------------------------------------------------------------------
+
+    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week covers the penultimate ninth episode of the series "The Grand Jury" which aired Tuesday November 2nd on FX. This episode features Richard's conversation with Sarah Paulson, who centers American Crime Story: Impeachment with her performance of Linda Tripp. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 25 min
+
+57. -   NOV 1, 2021
+
+    [Still Watching: Succession Season 3 - "The Disruption" with Kieran Culkin](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-the-disruption/id1328561705?i=1000540327115)
+
+    Still Watching: Succession Season 3 - "The Disruption" with Kieran Culkin
+
+    -----------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the third episode of the third season, "The Disruption" which aired Sunday October 31st on HBO and finally moves time forward this season. This podcast also features Sonia in conversation with Kieran Culkin, who returns as Roman Roy this season. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 27 min
+
+58. -   OCT 27, 2021
+
+    ["Stand By Your Man" with Brad Simpson - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/stand-by-your-man-with-brad-simpson-still-watching/id1328561705?i=1000539836645)
+
+    "Stand By Your Man" with Brad Simpson - Still Watching American Crime Story Impeachment
+
+    -------------------------------------------------------------------------------------------
+
+    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week covers the eighth episode of the series, "Stand By Your Man," which aired Tuesday October 26th on FX. This episode features Katey's interview with American Crime Story Executive Producer Brad Simpson who discusses the overall structure of American Crime Story: Impeachment. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 21 min
+
+59. -   OCT 25, 2021
+
+    [Still Watching: Succession Season 3 - "Mass in Time of War" with Alan Ruck](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-mass-in-time-of/id1328561705?i=1000539580797)
+
+    Still Watching: Succession Season 3 - "Mass in Time of War" with Alan Ruck
+
+    ------------------------------------------------------------------------------
+
+    Vanity Fair's Richard Lawson and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the second episode of the third season, "Mass in Time of War" which aired Sunday October 24th on HBO and is a much more contained episode than usual. This podcast also features Sonia in conversation with Alan Ruck, who returns as Connor Roy this season. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 5 min
+
+60. -   OCT 20, 2021
+
+    ["The Assassination of Monica Lewinsky" with Edie Falco - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/the-assassination-of-monica-lewinsky-with-edie/id1328561705?i=1000539125467)
+
+    "The Assassination of Monica Lewinsky" with Edie Falco - Still Watching American Crime Story Impeachment
+
+    ------------------------------------------------------------------------------------------------------------
+
+    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week covers the seventh episode of the series, "The Assassination of Monica Lewinsky," which aired Tuesday October 19th on FX. This episode features Richard's interview with Edie Falco who appears as as Hillary Clinton in American Crime Story: Impeachment. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 15 min
+
+61. -   OCT 18, 2021
+
+    [Still Watching: Succession Season 3 - "Secession" with Brian Cox and J. Smith Cameron](https://podcasts.apple.com/us/podcast/still-watching-succession-season-3-secession-with/id1328561705?i=1000538879380)
+
+    Still Watching: Succession Season 3 - "Secession" with Brian Cox and J. Smith Cameron
+
+    -----------------------------------------------------------------------------------------
+
+    Vanity Fair's Katey Rich, Richard Lawson, and Sonia Saraiya are Still Watching the Roy family for the third season of Succession on HBO. This week covers the first episode of the third season, "Secession" which aired Sunday October 17th on HBO and catches up on the key family drama of previous seasons. This episode also features Vanity Fair's Joy Press in conversation with both Brian Cox, who plays Logan, and J. Smith Cameron who returns as Gerri. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+    -   PLAY
+    -   1 hr 27 min
