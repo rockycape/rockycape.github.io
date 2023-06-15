@@ -608,18 +608,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
     -   PLAY
     -   1 hr 23 min
 
-54. -   NOV 11, 2021
 
-    ["The Wilderness" with Monica Lewinsky - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/the-wilderness-with-monica-lewinsky-still/id1328561705?i=1000541371270)
-
-    "The Wilderness" with Monica Lewinsky - Still Watching American Crime Story Impeachment
-
-    -------------------------------------------------------------------------------------------
-
-    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week, Vanity Fair's Julie Miller joins Richard and Katey to cover the finale of the series "The Wilderness" which aired Tuesday November 9th on FX. This episode features Katey's conversation with Monica Lewinsky, who produced American Crime Story: Impeachment and looks back on the series and real life events. Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-    -   PLAY
-    -   1 hr 28 min
 
 55. -   NOV 8, 2021
 
@@ -634,18 +623,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
     -   PLAY
     -   1 hr 27 min
 
-56. -   NOV 3, 2021
 
-    ["The Grand Jury" with Sarah Paulson - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/the-grand-jury-with-sarah-paulson-still-watching/id1328561705?i=1000540576573)
-
-    "The Grand Jury" with Sarah Paulson - Still Watching American Crime Story Impeachment
-
-    -----------------------------------------------------------------------------------------
-
-    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week covers the penultimate ninth episode of the series "The Grand Jury" which aired Tuesday November 2nd on FX. This episode features Richard's conversation with Sarah Paulson, who centers American Crime Story: Impeachment with her performance of Linda Tripp. Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-    -   PLAY
-    -   1 hr 25 min
 
 57. -   NOV 1, 2021
 
@@ -660,18 +638,7 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
     -   PLAY
     -   1 hr 27 min
 
-58. -   OCT 27, 2021
 
-    ["Stand By Your Man" with Brad Simpson - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/stand-by-your-man-with-brad-simpson-still-watching/id1328561705?i=1000539836645)
-
-    "Stand By Your Man" with Brad Simpson - Still Watching American Crime Story Impeachment
-
-    -------------------------------------------------------------------------------------------
-
-    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week covers the eighth episode of the series, "Stand By Your Man," which aired Tuesday October 26th on FX. This episode features Katey's interview with American Crime Story Executive Producer Brad Simpson who discusses the overall structure of American Crime Story: Impeachment. Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-    -   PLAY
-    -   1 hr 21 min
 
 59. -   OCT 25, 2021
 
@@ -686,18 +653,6 @@ This week, Felix Salmon, Emily Peck, and Elizabeth Spiers are joined by NPR medi
     -   PLAY
     -   1 hr 5 min
 
-60. -   OCT 20, 2021
-
-    ["The Assassination of Monica Lewinsky" with Edie Falco - Still Watching American Crime Story Impeachment](https://podcasts.apple.com/us/podcast/the-assassination-of-monica-lewinsky-with-edie/id1328561705?i=1000539125467)
-
-    "The Assassination of Monica Lewinsky" with Edie Falco - Still Watching American Crime Story Impeachment
-
-    ------------------------------------------------------------------------------------------------------------
-
-    Vanity Fair's Katey Rich and Richard Lawson are Still Watching the FX true crime anthology series American Crime Story: Impeachment, covering the Clinton Affair of the late 1990s. This week covers the seventh episode of the series, "The Assassination of Monica Lewinsky," which aired Tuesday October 19th on FX. This episode features Richard's interview with Edie Falco who appears as as Hillary Clinton in American Crime Story: Impeachment. Learn more about your ad choices. Visit podcastchoices.com/adchoices
-
-    -   PLAY
-    -   1 hr 15 min
 
 61. -   OCT 18, 2021
 
