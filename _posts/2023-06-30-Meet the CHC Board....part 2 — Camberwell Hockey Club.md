@@ -32,6 +32,8 @@ Following on from last week’s Meet the CHC Board, we present the final 5 Board
 
 **_Sum up Camberwell Hockey Club in 3 words:_** Fun, competitive, welcoming.
 
+![](https://images.squarespace-cdn.com/content/v1/592381d0414fb52934dd132d/ebf9a1a1-b662-42f5-92a1-b8e51e266b50/Suz+Cannell.jpeg?format=500w)
+
 ### **Susan Cannell - Appointed Board Member**
 
 **_What year did you join CHC?_** 2015
@@ -54,7 +56,6 @@ Following on from last week’s Meet the CHC Board, we present the final 5 Board
 
 **_Sum up Camberwell Hockey Club in 3 words:_** Friendly competitive club
 
-![](https://images.squarespace-cdn.com/content/v1/592381d0414fb52934dd132d/ebf9a1a1-b662-42f5-92a1-b8e51e266b50/Suz+Cannell.jpeg?format=500w)
 
 ![](https://images.squarespace-cdn.com/content/v1/592381d0414fb52934dd132d/d966d5e9-8e6a-47da-875b-d3911e4be93c/Britt+Simmons.jpeg?format=300w)
 
