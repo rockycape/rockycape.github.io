@@ -80,6 +80,8 @@ Following on from last week’s Meet the CHC Board, we present the final 5 Board
 
 **_Sum up Camberwell Hockey Club in 3 words:_** Inclusive, community, passion
 
+![](https://images.squarespace-cdn.com/content/v1/592381d0414fb52934dd132d/3ad4dee8-522c-4346-ade3-4c4f05e0ef4b/Marcus+Edwards.jpeg?format=300w)
+
 ### **Marcus Edwards - Junior Chair**
 
 **_What year did you join CHC?_** 2018
@@ -102,7 +104,7 @@ Following on from last week’s Meet the CHC Board, we present the final 5 Board
 
 **_Sum up Camberwell Hockey Club in 3 words:_** Fun, friendly, competitive
 
-![](https://images.squarespace-cdn.com/content/v1/592381d0414fb52934dd132d/3ad4dee8-522c-4346-ade3-4c4f05e0ef4b/Marcus+Edwards.jpeg?format=300w)
+
 
 ![](https://images.squarespace-cdn.com/content/v1/592381d0414fb52934dd132d/e6b429d3-8349-4266-94b3-c38527b84609/Corinne+Lyon.jpeg?format=300w)
 
