@@ -7,9 +7,6 @@ author:
 ---
 
 
-**The** **who**'s **who** **of** Melbourne's **elite** private **schools**
-==========================================================================
-
 May 2, 2023 | Herald Sun: Web Edition Articles (Melbourne, Australia)
 
 Author/Byline: Susie O'Brien; Education Editor | Section: Education

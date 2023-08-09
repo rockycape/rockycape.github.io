@@ -6,10 +6,6 @@ author:
 - Susie O'Brien
 ---
 
-
-**The** **who**'s **who** **of** Melbourne's **elite** **schools**: Part 2
-==========================================================================
-
 May 23, 2023 | Herald Sun: Web Edition Articles (Melbourne, Australia)
 
 Author/Byline: Susie O'Brien | Section: Education
