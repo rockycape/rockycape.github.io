@@ -6,7 +6,17 @@ author:
 - Susie O'Brien
 ---
 
-## Carey Grammar {: #Carey_Grammar }
+
+
+[Carey Grammar](#carey-grammar) 
+[Caulfield Grammar](#caulfield-grammar) 
+[The Knox School](#the-knox-school)  
+[St Catherine's School](#st-catherines-school)  
+[Haileybury](#haileybury)  
+[Ballarat Clarendon College](#ballarat-clarendon-college)  
+[Mentone Grammar](#mentone-grammar)  
+[Mentone Girls' Grammar School](#mentone-girls-grammar-school)    
+[Fintona Girls' School](#fintona-girls-school)  
 
 May 23, 2023 | Herald Sun: Web Edition Articles (Melbourne, Australia)
 
@@ -25,7 +35,7 @@ Post-Covid, the private school landscape continues to evolve, leading to a shi
 Here's the Herald Sun's Who's Who of Private Schools: Part Two
 
 
-Carey Grammar
+## Carey Grammar
 
 As one of the only co-ed schools in the leafy east's private school belt, Carey Grammar is "going gangbusters" according to one insider.
 
@@ -41,7 +51,7 @@ Movers and Shakers: Tim Chilvers, Mary Wooldridge, Graeme Liebelt, Jane Favaloro
 
 Notable alumni: James Tomkins, Steve Vizard, Jack Macrae, John and Tom Elliott, Peter and Tim Costello, Tiffany Cherry and Suzie Wilks.
 
-Caulfield Grammar
+## Caulfield Grammar
 
 Known as the sportiest school among some very sporty schools, Caulfield Grammar is the Carey Grammar of the southeast, hoovering up sporting talent thanks to a raft of generous scholarships.
 
@@ -55,7 +65,7 @@ Movers and shakers: Andrew Aitken, Emily Davis, Henry Jones, Fleur Katsmartin, J
 
 Notable alumni: Hamish Blake, Nick Cave, Kelly O'Dwyer, Emily Angwin, Jack Rafshauge, Mack Horton, Tamsyn Lewis, Brett Deledio, Chris Judd, Christopher Skase, Matthew Wales, John Landy, Tony Beddison.
 
-The Knox School
+## The Knox School
 
 The school was founded in 1982 and is going through a turbulent time.
 
@@ -67,7 +77,7 @@ Movers and shakers: Wendy Lewis, Barry McIlwaine, Cathrine Burnett-Wake, Ted Gal
 
 Notable alumni: Jackson Irvine, Shanae Greaves, Xander Speight, David Glascow, Victoria Caetano, Mitchell Phelan and Bhavesh Kapadia.
 
-St Catherine's School
+## St Catherine's School
 
 Stability of leadership has been a boon for this high-end, successful sporty school. Principal Michelle Carroll has been at the helm for a decade and worked hard to overcome a "Mean Girls" reputation a few years ago.
 
@@ -83,7 +93,7 @@ Movers and shakers: Jane Hodder, Roxanne Ktenevos, Tom Shelton, Julia Soutter, M
 
 Notable alumni: Natalie Bloom, Lady Anna Cowen, Dame Elisabeth Murdoch, Lady Marigold Baillieu Southey, Sunday Reed, Linda Dessau, Lauren Hewitt, Celia Burrell, Jane Campton, Carolyn Cresswell, Sophie Mirabella, Susan Richardson, Flip Shelton.
 
-Haileybury
+## Haileybury
 
 Haileybury's is one Victoria's largest schools and it's capably led by Derek Scott -- only the eighth principal since 1892.
 
@@ -101,7 +111,7 @@ Mover and shakers: Russell Davidson, Neil Sutcliffe, Tom Poulton, Scott Doran, S
 
 Notable alumni: Maddison Connaughton, Barbara van der Merwe, Adam Elliot, Ross Wilson, Ian Henderson, Lex Lasry, Martin Pakula, Alice Burke, James Pattinson, Amy Lawton, Ty Vickery, Max and Ben King, Andrew Brayshaw, Angus Brayshaw, Luke Davies-Uniacke, Cody Weightman, Jack Gunston, Oscar Piastri.
 
-Ballarat Clarendon College
+# Ballarat Clarendon College
 
 The mid-priced rural college in Victoria consistently posts some of the very best academic results, topping the state in 2022 for VCE.
 
@@ -121,7 +131,7 @@ Movers and shakers: David Shepherd, John Livingston, Fiona May, Mark Patterson, 
 
 Notable alumni: Matt Olver, Gwyn Hanssen Pigott, Joe Saba, Kimberley Davies, Bill Hunter, John Button, Percy Beames, Alastair Clarkson, Hugh McCluggage, Sarah Heard, Bob Davis, Georgina Kemp.
 
-Mentone Grammar
+## Mentone Grammar
 
 In a move still having repercussions around the southern beachside suburb, Mentone Grammar decided to admit girls in 2006.
 
@@ -141,7 +151,7 @@ Movers and shakers: Simon Appel, Mark Henricks, Jon Ponnusamy, Georgia Ahern, Ro
 
 Notable Alumni: Shane Warne, Stan Alves, Bill Granger, Mal Walden, Kate Hore, Oliver Florent, Jared and Daniel Daperis, Lee Cormie.
 
-Mentone Girls' Grammar School
+## Mentone Girls' Grammar School
 
 Three years ago, Natalie Charles, formerly head of Carey Grammar senior school, took over as principal at Mentone Girls.
 
@@ -157,7 +167,7 @@ Movers and shakers: Courtney Walsh, Caitlin Cole, Chrissy Slater, Daphne Soh-Sim
 
 Notable Alumni: Margaret McLorinan, Annette Kellerman, Nancy Wynne Bolton, Dulcie Boling, Mary Bawden, Sarah Derrington, Nicole Bradtke, Suzie Sheehy, Neary Ty.
 
-Fintona Girls' School
+## Fintona Girls' School
 
 The up-market Balwyn college has excellent VCE results, but small year 12 cohorts and only 450 students across all year levels
 
