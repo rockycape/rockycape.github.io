@@ -8,9 +8,9 @@ author:
 
 
 
-[Carey Grammar](#carey-grammar) 
-[Caulfield Grammar](#caulfield-grammar) 
-[The Knox School](#the-knox-school)  
+[Carey Grammar](#carey-grammar)  
+[Caulfield Grammar](#caulfield-grammar)  
+[The Knox School](#the-knox-school)   
 [St Catherine's School](#st-catherines-school)  
 [Haileybury](#haileybury)  
 [Ballarat Clarendon College](#ballarat-clarendon-college)  
