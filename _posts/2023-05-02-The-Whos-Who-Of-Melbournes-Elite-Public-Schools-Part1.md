@@ -6,6 +6,15 @@ author:
 - Susie O'Brien
 ---
 
+[SCOTCH COLLEGE]()  
+[Caulfield Grammar](#caulfield-grammar)  
+[The Knox School](#the-knox-school)   
+[St Catherine's School](#st-catherines-school)  
+[Haileybury](#haileybury)  
+[Ballarat Clarendon College](#ballarat-clarendon-college)  
+[Mentone Grammar](#mentone-grammar)  
+[Mentone Girls' Grammar School](#mentone-girls-grammar-school)    
+[Fintona Girls' School](#fintona-girls-school)  
 
 May 2, 2023 | Herald Sun: Web Edition Articles (Melbourne, Australia)
 
@@ -22,7 +31,7 @@ But all the extracurricular offerings and prestige pays off, with some of Me
 
 Here's the Herald Sun's Who's Who of Private Schools: Part One
 
-SCOTCH COLLEGE
+#SCOTCH COLLEGE
 
 With the departure of Tom Batty, new principal Dr Scott Marsh -- aka Colonel Sanders -- has taken over. Marsh's more traditional approach to hairstyles ("no mullets") is putting some parents offside.
 
@@ -32,7 +41,7 @@ Board chair Alex Sloan remains unpopular with some of the old boys and parent
 
 Notable alumni: Michel Nehme, Jamarra Ugle-Hagan, Reef McInnes, Maurice Rioli, Peter Singer, John Williamson, Jeff Kennett, John Cain, Cyril Rioli, Campbell Brown, Jack Billings and Jack Sinclair. Oh, and 71 old boys who have been knighted.
 
-MELBOURNE GRAMMAR
+#MELBOURNE GRAMMAR
 
 Affable principal Phillip Grutzner has been a popular, if "reasonably safe" leader.
 
@@ -50,7 +59,7 @@ Movers and shakers include Andrew Michelmore, Jim Cousins, chair of the augus
 
 Notable alumni: Professor Richard Larkins, Ted Baillieu, Sir Rupert Hamer, Keith Dunstan, Barry Humphries, Rob Stich and Tom Hawkins.
 
-TRINITY GRAMMAR
+#TRINITY GRAMMAR
 
 The buzz about newish principal Adrian Farrer is positive, with a number saying he's working well with Mark Glover as the business manager.
 
@@ -66,7 +75,7 @@ Movers and shakers include new council chair Ashley Butler, former council chair
 
 Notable alumni: Mark Birrell, Luke Power, Sam Power, Peter Rowsthorn, Phil Anderson and Ross Stevenson.
 
-XAVIER COLLEGE
+#XAVIER COLLEGE
 
 Things have turned around for the signature Catholic school, which was losing enrolments to schools on the other side of the river despite its reputation as the top of the Catholic pecking order.
 
@@ -82,7 +91,7 @@ Movers and shakers include board chair Tony Nunan, Father Chris Middleton, Gerar
 
 Notable alumni: Morgan Stanley chief executive James Gorman, James Gobbo, Rob Hulls, Tim Fischer, Santo Cilauro, Jobe Watson and Bill Shorten.
 
-MARCELLIN COLLEGE
+#MARCELLIN COLLEGE
 
 After suffering for decades as a bit of a thuggish sporty school for boys whose parents couldn't afford Xavier, Marcellin has had a resurgence under principal Marco Di Cesare.
 
@@ -96,7 +105,7 @@ Movers and shakers include old scholar Bobby Zagame, the Dimattina coffee fami
 
 Notable alumni: Professor Ben Cowie, Marcus Bontempelli, Callum Brown, Gavin Brown, Stephen Curry and Michael O'Brien.
 
-RUYTON GIRLS' SCHOOL
+#RUYTON GIRLS' SCHOOL
 
 An exclusive girls' school in Kew known for strong multi-generational enrolments dominated by blondes. Its size means it lacks some opportunities but its connection to nearby Trinity Grammar gives it additional subject choice (and dating options).
 
@@ -106,7 +115,7 @@ Movers and shakers include Virginia McLaughlin, board chair Craig Wishart, Tim R
 
 Notable alumni, or as Ruyton calls them, women of significance include Sue Carr, Fay Marles, Professor Adrienne Clarke, Judith Durham, Michelle Grattan and Dame Zara Holt.
 
-LORETO MANDEVILLE HALL TOORAK
+#LORETO MANDEVILLE HALL TOORAK
 
 Known as the most prestigious of the Catholic girls' schools in Melbourne, Loreto Toorak is very well regarded.
 
@@ -122,7 +131,7 @@ Movers and shakers include director of operations Adrian Flanagan, Kate Collin
 
 Notable alumni: Olivia Wells, Angie McMahon, Catherine Walter, Elizabeth Curtain, Janet Whiting and Meribel Lennon.
 
-METHODIST LADIES' COLLEGE
+#METHODIST LADIES' COLLEGE
 
 With more than 2000 pupils, MLC is often criticised for being too big. But that doesn't stop this Kew institution from having a waiting list a mile long.
 
@@ -138,7 +147,7 @@ Movers and shakers include the Fox family granddaughters, board chair Simon Ma
 
 Notable alumni: Lady Millie Peacock, Nicola Roxon, Cate Blanchett, Alisa Camplin, Yumi Stynes and Deborra-lee Furness.
 
-GEELONG GRAMMAR
+#GEELONG GRAMMAR
 
 One mum says Geelong Grammar's parent cohort is "happy and down-to-earth" but it's easy to be affable when your beachside country retreat is valued at $20 million.
 
@@ -152,7 +161,7 @@ Movers and shakers include Rupert Murdoch's nephew Paddy Handbury, Tim Fairfax, 
 
 Notable alumni: King Charles, Rupert Murdoch, Kerry Packer, Missy Higgins and Portia de Rossi.
 
-WESLEY COLLEGE
+#WESLEY COLLEGE
 
 Principal Nick Evans enjoys broad support in the school community although there are some pockets of deep discontent and some trouble brewing.
 
@@ -168,7 +177,7 @@ Movers and shakers include Professor Rachel Webster, Dr John Schubert, Peter Har
 
 Notable alumni: Sir Robert Menzies, Frank Beaurepaire, Sharelle McMahon, Ross Oakley, Michael Klim, Ian Johnson, Andrew Westacott and Harold Holt.
 
-ST KEVIN'S COLLEGE
+#ST KEVIN'S COLLEGE
 
 At the height of St Kevin's problems back in 2020 after the ABC exposed serious problems dealing with sex abuse claims, the school had 34 teachers under investigation.
 
@@ -188,7 +197,7 @@ Movers and shakers include Paul O'Malley, Evan Dwyer, Kevin Culliver and John Mu
 
 Notable alumni: Jacob Elordi, Josh Giddey, Rob Sitch, Vance Joy, Tom Liberatore, Brad Scott, Chris Scott and Chet Faker.
 
-GENAZZANO FCJ COLLEGE
+#GENAZZANO FCJ COLLEGE
 
 The up-market Catholic girls' school has long been regarded as second in status to Loreto (but ahead of Siena College and Our Lady of Sion College), despite its $32,000 a year fees.
 
@@ -202,7 +211,7 @@ Movers and shakers include board members Frank Fucile, Robert MacIsaac, Bernadet
 
 Notable alumni: Kathryn Fink, Philomene Tenni, Rosemary Thomas, Brenda Niall and Judy Ryan.
 
-BRIGHTON GRAMMAR
+#BRIGHTON GRAMMAR
 
 It's hard to find a bad word said about Brighton Grammar principal Ross Featherston. "He's running hot. He's right up there with the top two or three APS heads," a former APS principal said.
 
