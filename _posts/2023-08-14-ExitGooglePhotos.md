@@ -6,7 +6,7 @@ author:
 - Robert Triggs
 ---
 
-
+[https://www.androidauthority.com/immich-google-photos-alternative-3353286/](https://www.androidauthority.com/immich-google-photos-alternative-3353286/) 
 
 I tried a self-hosted Google Photos alternative but still can't switch
 Cloud convenience still trumps self-hosted control, for now.
