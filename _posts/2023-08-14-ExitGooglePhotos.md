@@ -13,14 +13,16 @@ Cloud convenience still trumps self-hosted control, for now.
 
 
 
-***Immich photo app gallery***
+**Immich photo app gallery**
+
 Cutting the cloud tether is increasingly easy, with plenty of excellent self-hosted options to house your documents and media library on your own NAS drive. But there’s one service that’s proven stubbornly tricky to replace — Google Photos. Out of all Google’s apps and services, Photos is the one that I use the most religiously. Whether it’s automatically backing up my phone’s photos, neatly organizing trips into albums, sharing snaps with family and friends, or quickly editing a pic when I’m not at my PC, Google Photos is a powerful one-stop-shop for everything mobile-photography related. As I’m sure you know.
 
 
 Still, I’ve taken so many snaps over the years that I’ve hit Google Photos’ free 15GB limit. I’m reluctant to pay monthly for Google One storage when I have terabytes of disc space sitting idle on my home server. But breaking out from this particular Google service is harder than most.
 
-***Google Photos alternatives for self-hosters***
+**Google Photos alternatives for self-hosters**
 **PhotoPrism gallery view**
+
 There’s no shortage of self-hosted photo gallery applications out there, many of which are very powerful in their own right. Which is incredible, given they’re free too. Photoprism is a popular choice (and I’m currently using it), sporting machine learning capabilities to automatically tag and organize your photos. However, it currently lacks the multi-user capabilities a family needs and doesn’t have a first-party app to handle backups. LibrePhotos is another potent option, but I found the Android apps buggy (they’re still in early development) and couldn’t get it to play nicely with my library’s organizational structure.
 
 There’s a great breakdown of Lychee, PiGallery, Piwigo, and others options to be found here, each of which comes with its own pros and cons. Ultimately, there’s a bit of a gap in the market for the seamless mobile backup and organizational experience Google offers. And that’s before we get into the fact that few of the options offer any editing capabilities whatsoever.
