@@ -1,3 +1,10 @@
+---
+layout: page
+title: "JupyterLab"
+permalink: /JupyterLab/
+---
+
+
 3 + 3
 
 
