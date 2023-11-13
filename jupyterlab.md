@@ -17,7 +17,3 @@ title: "jupyterlab"
 
 
 
-
-```python
-
-```
