@@ -1,3 +1,8 @@
+---
+layout: page
+title: "jupyterlab"
+---
+
 3 + 3
 
 
