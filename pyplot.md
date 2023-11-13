@@ -27,8 +27,3 @@ plt.show()
 ![png](/assets/output_0_0.png)
     
 
-
-
-```python
-
-```
