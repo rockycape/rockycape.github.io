@@ -16,7 +16,7 @@ pip install jupyterlab
 jupyter-lab --no-browser
 ```
 
-**exit JypyterLab**
+**exit JupyterLab**
 
 ```
 Use Control-C to stop this server and shut down all kernels (twice to skp confirmation)
