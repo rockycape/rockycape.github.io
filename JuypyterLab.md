@@ -15,6 +15,7 @@ pip install jupyterlab
 ```
 
 **start JupyterLab**
+It's a good idea to change directory to a project folder before starting JupyterLab as it creates several files
 
 ```
 jupyter-lab --no-browser
