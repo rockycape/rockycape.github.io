@@ -431,9 +431,14 @@ d. select BDMV file and choose *show package contents*
 e. click to open *STREAM folder* to reveal .MTS files  
 f. select a .MTS and open in Handbrake to convert to MP4  
 
-### (q) downloading recent radio program episodes from abc.net.au : These programs are available at a URL such as :- https://www.abc.net.au/listen/programs/melbourne-breakfast/melbourne-breakfast/103135498 and you need to inspect the HTML using Google Chrome developer tools and search for the direct link to the audio which will look something like :- src="https://mediacore-live-production.akamaized.net/audio/01/ok/Z/be.aac?source=web&content_id=103135498" 
+### (q) downloading recent radio program episodes from abc.net.au  
 
-### Next paste the link without talking marks and starting with https:// directly into a new browser window.  You can then right-click and choose download which will download the audio file (AAC) to your computer.  
+These programs are available at a URL such as :- 
+https://www.abc.net.au/listen/programs/melbourne-breakfast/melbourne-breakfast/103135498 
+and you need to inspect the HTML using Google Chrome developer tools and search for the direct link to the audio which will look something like :- 
+src="https://mediacore-live-production.akamaized.net/audio/01/ok/Z/be.aac?source=web&content_id=103135498" 
+
+Next paste the link without talking marks and starting with https:// directly into a new browser window.  You can then right-click and choose download which will download the audio file (AAC) to your computer.  
 
 
 ```<video class="jw-video jw-reset" tabindex="-1" disableremoteplayback="" webkit-playsinline="" playsinline="" src="https://mediacore-live-production.akamaized.net/audio/01/ok/Z/be.aac?source=web&amp;content_id=103135498"></video>```
