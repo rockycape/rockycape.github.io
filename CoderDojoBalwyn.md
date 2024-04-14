@@ -449,6 +449,8 @@ Next paste the link without talking marks and starting with https:// directly in
 
 ### (r) pair original amazon firetv remote with googletv box  
 
+[How to Connect Firestick Remote to Chromecast with Google TV](https://www.youtube.com/watch?v=9T7snq8q01c)  
+
 a. reset firetv remote as follows:  
 Press and hold the Left button, Menu button, and Back button at the same time. Hold them for 12 seconds. Release the buttons and wait 5 seconds. Remove the batteries from your remote.  
 
