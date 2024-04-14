@@ -441,6 +441,12 @@ src="https://mediacore-live-production.akamaized.net/audio/01/ok/Z/be.aac?source
 Next paste the link without talking marks and starting with https:// directly into a new browser window.  You can then right-click and choose download which will download the audio file (AAC) to your computer.  
 
 
+
+```<video class="jw-video jw-reset" tabindex="-1" disableremoteplayback="" webkit-playsinline="" playsinline="" src="https://mediacore-live-production.akamaized.net/audio/01/ok/Z/be.aac?source=web&amp;content_id=103135498"></video>```  
+
+
+
+
 ### (r) pair original amazon firetv remote with googletv box  
 
 a. reset firetv remote as follows:  
@@ -452,9 +458,6 @@ d. amazon firetv remote should appear on googletv box
 e. press and hold "home" button on amazon firetv remote for 10 seconds  
 f. using current remote select amazon firetv remote  
 
-
-
-```<video class="jw-video jw-reset" tabindex="-1" disableremoteplayback="" webkit-playsinline="" playsinline="" src="https://mediacore-live-production.akamaized.net/audio/01/ok/Z/be.aac?source=web&amp;content_id=103135498"></video>```
 
 
 
