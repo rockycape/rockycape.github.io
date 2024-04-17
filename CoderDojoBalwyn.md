@@ -460,7 +460,35 @@ b. open up bluetooth device remote settings on googletv box using current remote
 c. select add new device on googletv box using current remote  
 d. amazon firetv remote should appear on googletv box  
 e. press and hold "home" button on amazon firetv remote for 10 seconds  
-f. using current remote select amazon firetv remote  
+f. using current remote select amazon firetv remote
+
+### (s) pair original amazon firetv remote with android phone  
+
+amazon firetv remote model # CV98LM
+
+a. reset firetv remote as follows:  
+Press and hold the Left button, Menu button, and Back button at the same time. Hold them for 12 seconds. Release the buttons and wait 5 seconds. Remove the batteries from your remote.  
+
+b. on android phone open up developer settings --> show bluetooth devices without names and toggle switch on. 
+c. on android phone go to settings --> connected devices --> + Pair new device
+d. amazon firetv remote should appear under available devices  
+e. press and hold "home" button on amazon firetv remote for 10 seconds  
+f. on android phone select amazon firetv remote
+
+Once paired successfully Amazon Fire TV Remote will show under Connected devices "other devices" list
+
+
+### (t) To remove spaces from text using Sublime Text, you can use regular expressions combined with Sublime Text's find and replace feature.
+
+Here's how you can do it:
+
+1. Open Sublime Text.
+2. Press Ctrl + H (Windows/Linux) or Cmd + Alt + F (Mac) to open the Find and Replace dialog.
+3. Make sure the regular expression option is enabled. You can do this by clicking the .* button on the left of the search field, and selecting .* to enable regular expressions.
+4. In the "Find What" field, enter the regular expression for spaces. For example, you can use [\s] to match any whitespace character.
+5. Leave the "Replace With" field empty to remove the matched characters.
+6. Click on "Replace All" to remove all spaces from the text.
+7. Manually remove punctuation
 
 
 
