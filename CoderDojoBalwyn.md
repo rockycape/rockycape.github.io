@@ -489,6 +489,11 @@ Here's how you can do it:
 5. Leave the "Replace With" field empty to remove the matched characters.
 6. Click on "Replace All" to remove all spaces from the text.
 
+### (u) Chrome Tab Navigation commands  
+  
+navigate between chrome browser tabs with:
+ cntrl-tab AND shift cntrl-tab
+
 
 
 
