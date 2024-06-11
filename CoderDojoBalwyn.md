@@ -485,10 +485,9 @@ Here's how you can do it:
 1. Open Sublime Text.
 2. Press Ctrl + H (Windows/Linux) or Cmd + Alt + F (Mac) to open the Find and Replace dialog.
 3. Make sure the regular expression option is enabled. You can do this by clicking the .* button on the left of the search field, and selecting .* to enable regular expressions.
-4. In the "Find What" field, enter the regular expression for spaces. For example, you can use \s to find spaces in text.
+4. In the "Find What" field, enter the regular expression for spaces. For example, you can use \W to find whitespace including punctuation!
 5. Leave the "Replace With" field empty to remove the matched characters.
 6. Click on "Replace All" to remove all spaces from the text.
-7. Manually remove punctuation
 
 
 
