@@ -489,6 +489,8 @@ Here's how you can do it:
 5. Leave the "Replace With" field empty to remove the matched characters.
 6. Click on "Replace All" to remove all spaces from the text.
 
+The operator \W is a regular expressions or regex and more details can be found: [regex](https://docs.python.org/3/howto/regex.html)  
+
 ### (u) Chrome Tab Navigation commands  
   
 navigate between chrome browser tabs with:
