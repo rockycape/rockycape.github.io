@@ -496,7 +496,66 @@ The operator \W is a regular expressions or regex and more details can be found:
 navigate between chrome browser tabs with:
  cntrl-tab AND shift cntrl-tab
 
+### (v) Python install from python.org to MacOS Catalalina
 
+On a Mac, the location `/Library/Frameworks/Python.framework/Versions/3.6/bin/python3` indicates that Python 3.6 has been installed using a Python installer from the official Python website or another similar source, rather than being the system's default Python. Here's some detailed information about this setup:
+
+### What It Means
+
+1.  **Custom Installation**: The Python installation in `/Library/Frameworks/Python.framework` is a custom installation that resides in a directory specifically designed for frameworks on macOS. This is separate from the system Python installation that comes pre-installed with macOS, which is typically found in `/usr/bin`.
+
+2.  **Python Version**: The path indicates that Python version 3.6 is installed. This version will remain fixed unless you explicitly upgrade or change it.
+
+### Benefits
+
+1.  **Isolated from System Python**: This custom installation is isolated from the system Python, which helps prevent conflicts with the macOS system scripts and other applications that rely on the default Python.
+
+2.  **Easier Upgrades and Management**: Managing and upgrading Python installed in `/Library/Frameworks` is more straightforward and less risky compared to altering the system Python.
+
+3.  **Framework Benefits**: The framework installation can be beneficial for certain applications and libraries that might expect Python to be installed in this location.
+
+### Managing Your Python Installation
+
+1.  **Using Virtual Environments**: Even with a custom installation, it's a good practice to use virtual environments to manage dependencies for different projects:
+
+    bash
+
+    Copy code
+
+    `/Library/Frameworks/Python.framework/Versions/3.6/bin/python3 -m venv myenv
+    source myenv/bin/activate`
+
+2.  **Updating Python**: If you want to update your Python installation, you will need to download and install a new version from the official Python website. You can then change the path to point to the new version.
+
+3.  **Package Management**: Use `pip` to manage your Python packages within your virtual environment:
+
+    bash
+
+    Copy code
+
+    `/Library/Frameworks/Python.framework/Versions/3.6/bin/python3 -m pip install package_name`
+
+### Checking Your Python Path
+
+To verify which Python binary you are using, you can use the `which` command:
+
+bash
+
+Copy code
+
+`which python3`
+
+To ensure you are using the correct Python binary, you might need to adjust your shell's PATH environment variable or specify the full path to the Python interpreter:
+
+bash
+
+Copy code
+
+`export PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:$PATH"`
+
+### Summary
+
+The Python installation located at `/Library/Frameworks/Python.framework/Versions/3.6/bin/python3` on your Mac indicates a custom installation, providing isolation from the system Python and facilitating easier management of Python versions and dependencies. For best practices, continue using virtual environments and manage packages within these environments to maintain a clean and conflict-free development setup.
 
 
 <!--  
