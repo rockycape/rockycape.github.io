@@ -1,0 +1,54 @@
+.family-tree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  li {
+    margin: 10px 0;
+    position: relative;
+  }
+  
+  .member {
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #fff;
+  }
+  
+  li::before, li::after {
+    content: '';
+    position: absolute;
+    top: 0;
+  }
+  
+  li::before {
+    border-left: 1px solid #000;
+    height: 20px;
+    left: 50%;
+  }
+  
+  li::after {
+    border-top: 1px solid #000;
+    width: 100%;
+    left: 0;
+    top: 10px;
+  }
+  
+  li:first-child::before {
+    display: none;
+  }
+  
+  li:last-child::after {
+    display: none;
+  }
+  
