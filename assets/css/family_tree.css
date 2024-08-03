@@ -40,7 +40,7 @@ li::before {
   border-left: 1px solid #000;
   height: 20px;
   left: 50%;
-  top: -20px; /* Adjust this value to connect the line properly */
+  top: -40px; /* Adjust this value to connect the line properly */
 }
 
 li::after {
