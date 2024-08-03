@@ -1,7 +1,15 @@
 - name: Eddard Stark
+  spouse: Catelyn Stark
   children:
     - name: Robb Stark
+      spouse: Talisa Maegyr
+      children: []
     - name: Sansa Stark
+      children: []
     - name: Arya Stark
+      children: []
     - name: Bran Stark
+      children: []
     - name: Rickon Stark
+      children: []
+

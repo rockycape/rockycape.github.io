@@ -3,9 +3,14 @@
       <li>
         <div class="member">
           {{ member.name }}
+          {% if member.spouse %}
+            <div class="spouse"> &amp; {{ member.spouse }}</div>
+          {% endif %}
         </div>
-        {% if member.children %}
-          {% include family_tree.html data=member.children %}
+        {% if member.children and member.children.size > 0 %}
+          <div class="children">
+            {% include family_tree.html data=member.children %}
+          </div>
         {% endif %}
       </li>
     {% endfor %}

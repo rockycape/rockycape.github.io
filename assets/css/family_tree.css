@@ -23,6 +23,11 @@
     border: 1px solid #000;
     border-radius: 5px;
     background: #fff;
+    text-align: center;
+  }
+  
+  .spouse {
+    font-style: italic;
   }
   
   li::before, li::after {
@@ -52,3 +57,9 @@
     display: none;
   }
   
+  .children {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+   
