@@ -3,7 +3,10 @@
   children:
     - name: Robb Stark
       spouse: Talisa Maegyr
-      children: []
+      children:
+      - name: Fred
+      - name: Billy
+      - name: Joe
     - name: Sansa Stark
       children: []
     - name: Arya Stark
