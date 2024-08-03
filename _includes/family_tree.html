@@ -1,0 +1,13 @@
+<ul>
+    {% for member in include.data %}
+      <li>
+        <div class="member">
+          {{ member.name }}
+        </div>
+        {% if member.children %}
+          {% include family_tree.html data=member.children %}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  
