@@ -1,65 +1,81 @@
 .family-tree {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  li {
-    margin: 10px 0;
-    position: relative;
-  }
-  
-  .member {
-    padding: 10px;
-    border: 1px solid #000;
-    border-radius: 5px;
-    background: #fff;
-    text-align: center;
-  }
-  
-  .spouse {
-    font-style: italic;
-  }
-  
-  li::before, li::after {
-    content: '';
-    position: absolute;
-    top: 0;
-  }
-  
-  li::before {
-    border-left: 1px solid #000;
-    height: 20px;
-    left: 50%;
-  }
-  
-  li::after {
-    border-top: 1px solid #000;
-    width: 100%;
-    left: 0;
-    top: 10px;
-  }
-  
-  li:first-child::before {
-    display: none;
-  }
-  
-  li:last-child::after {
-    display: none;
-  }
-  
-  .children {
-    display: flex;
-    justify-content: center;
-    margin-top: 10px;
-  }
-   
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li {
+  margin: 10px 0;
+  position: relative;
+}
+
+.member {
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background: #fff;
+  text-align: center;
+}
+
+.spouse {
+  font-style: italic;
+}
+
+li::before, li::after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+
+li::before {
+  border-left: 1px solid #000;
+  height: 20px;
+  left: 50%;
+  top: -20px; /* Adjust this value to connect the line properly */
+}
+
+li::after {
+  border-top: 1px solid #000;
+  width: 100%;
+  left: 0;
+  top: 10px;
+}
+
+li:first-child::before {
+  display: none;
+}
+
+li:last-child::after {
+  display: none;
+}
+
+.children {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  position: relative;
+}
+
+.children::before {
+  content: '';
+  position: absolute;
+  top: -10px; /* Adjust this value to connect the line properly */
+  border-top: 1px solid #000;
+  width: 100%;
+  left: 0;
+}
+
+.children > li::before {
+  border-left: 1px solid #000;
+  height: 10px;
+  top: -10px; /* Adjust this value to connect the line properly */
+}
