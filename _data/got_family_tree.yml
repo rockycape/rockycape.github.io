@@ -1,0 +1,15 @@
+- name: "Eddard Stark"
+  spouse: "Catelyn Stark"
+  children:
+    - name: "Robb Stark"
+    - name: "Sansa Stark"
+    - name: "Arya Stark"
+    - name: "Bran Stark"
+    - name: "Rickon Stark"
+- name: "Tywin Lannister"
+  spouse: "Joanna Lannister"
+  children:
+    - name: "Jaime Lannister"
+    - name: "Cersei Lannister"
+    - name: "Tyrion Lannister"
+
