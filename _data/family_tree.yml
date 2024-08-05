@@ -1,29 +1,13 @@
-- name: "Thomas Martin"
-  spouse: "Enid Hoskin"
+- name: "Duncan Hooper"
+  spouse: "Elsie Finkle"
   children:
-    - name: "Robert 'Bob' Martin"
-      spouse: "Christine Hooper"
+    - name: "Christine Hooper"
+    - name: "John Hooper"
+      spouse: "Joan Ellis"
       children:
-        - name: "Cathy Martin"
-          spouse: "Mike Addison"
+        - name: "Sally Hooper"
+          spouse: "Andrew Hewett"
           children:
-            - name: "Tom Addison"
-            - name: "Ollie Addison"
-        - name: "Paul Martin"
-          spouse: "Flur Shelley"
-          children:
-            - name: "Tate Martin"
-            - name: "Liam Martin"
-        - name: "Jen Martin"
-          spouse: "Chris Morgan"
-          children:
-            - name: "James Savage"
-    - name: "Helen Hoskin"
-      spouse: "Frank Kaesehagen"
-      children:
-        - name: "Mark Kaesehagen"
-        - name: "Sue Kaesehagen"
-        - name: "Jane Kaesehagen"
-        - name: "Julie Kaesehagen"
-    - name: "Peter Martin"
-
+            - name: "Ollie Hewett"
+            - name: "Mia Hewett"
+        - name: "Liz Hooper
