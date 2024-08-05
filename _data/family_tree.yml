@@ -2,7 +2,7 @@
   spouse: "Enid Hoskin"
   children:
     - name: "Robert 'Bob' Martin"
-      spouse: "Christine Martin"
+      spouse: "Christine Hooper"
       children:
         - name: "Cathy Martin"
           spouse: "Mike Addison"
@@ -18,7 +18,7 @@
           spouse: "Chris Morgan"
           children:
             - name: "James Savage"
-    - name: "Helen Martin"
+    - name: "Helen Hoskin"
       spouse: "Frank Kaesehagen"
       children:
         - name: "Mark Kaesehagen"
