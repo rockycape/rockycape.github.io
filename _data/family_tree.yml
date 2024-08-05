@@ -10,8 +10,19 @@
     - name: "Cathy Martin"
     - name: "Paul Martin"
     - name: "Jen Martin"
+- name: "Cathy Martin"
+  spouse: "Mike Addison"
+  children:
+    - name: "Tom Addison"
+    - name: "Ollie Addison"
+
 - name: "Paul Martin"
   spouse: "Flur Shelley"
   children:
     - name: "Tate Martin"
     - name: "Liam Martin"
+- name: "Jen Martin"
+  spouse: "Chris Morgan"
+  children:
+    - name: "James Savage"
+
