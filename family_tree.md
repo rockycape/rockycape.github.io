@@ -3,23 +3,15 @@ layout: family_tree
 title: Family Trees
 ---
 
-{% assign family_tree01 = site.data.family_tree01.family_trees %}
-{% assign family_tree02 = site.data.family_tree02.family_trees %}
+{% assign family_tree = site.data.family_tree %}
+{% assign family_tree01 = site.data.family_tree01 %}
 
 <h2>Family Tree</h2>
-<ul>
-  {% for family in family_tree01 %}
-    <li>
-      {% include family_tree.html data=family %}
-    </li>
-  {% endfor %}
-</ul>
+{% for family in family_tree.family_trees %}
+  {% include family_tree.html data=family %}
+{% endfor %}
 
 <h2>Family Tree01</h2>
-<ul>
-  {% for family in family_tree02 %}
-    <li>
-      {% include family_tree.html data=family %}
-    </li>
-  {% endfor %}
-</ul>
+{% for family in family_tree01.family_trees %}
+  {% include family_tree.html data=family %}
+{% endfor %}
