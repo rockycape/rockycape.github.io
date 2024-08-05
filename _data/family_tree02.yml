@@ -1,14 +1,14 @@
 family_trees:
-- name: "Duncan Hooper"
-  spouse: "Elsie Finkle"
-  children:
-    - name: "Christine Hooper"
-    - name: "John Hooper"
-      spouse: "Joan Ellis"
-      children:
-        - name: "Sally Hooper"
-          spouse: "Andrew Hewett"
-          children:
-            - name: "Ollie Hewett"
-            - name: "Mia Hewett"
-        - name: "Liz Hooper"
+  - name: "Duncan Hooper"
+    spouse: "Elsie Finkle"
+    children:
+      - name: "Christine Hooper"
+      - name: "John Hooper"
+        spouse: "Joan Ellis"
+        children:
+          - name: "Sally Hooper"
+            spouse: "Andrew Hewett"
+            children:
+              - name: "Ollie Hewett"
+              - name: "Mia Hewett"
+          - name: "Liz Hooper"      

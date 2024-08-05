@@ -1,30 +1,29 @@
 family_trees:
-- name: "Thomas Martin"
-  spouse: "Enid Hoskin"
-  children:
-    - name: "Robert 'Bob' Martin"
-      spouse: "Christine Hooper"
-      children:
-        - name: "Cathy Martin"
-          spouse: "Mike Addison"
-          children:
-            - name: "Tom Addison"
-            - name: "Ollie Addison"
-        - name: "Paul Martin"
-          spouse: "Flur Shelley"
-          children:
-            - name: "Tate Martin"
-            - name: "Liam Martin"
-        - name: "Jen Martin"
-          spouse: "Chris Morgan"
-          children:
-            - name: "James Savage"
-    - name: "Helen Hoskin"
-      spouse: "Frank Kaesehagen"
-      children:
-        - name: "Mark Kaesehagen"
-        - name: "Sue Kaesehagen"
-        - name: "Jane Kaesehagen"
-        - name: "Julie Kaesehagen"
-    - name: "Peter Martin"
-
+  - name: "Thomas Martin"
+    spouse: "Enid Hoskin"
+    children:
+      - name: "Robert 'Bob' Martin"
+        spouse: "Christine Hooper"
+        children:
+          - name: "Cathy Martin"
+            spouse: "Mike Addison"
+            children:
+              - name: "Tom Addison"
+              - name: "Ollie Addison"
+          - name: "Paul Martin"
+            spouse: "Flur Shelley"
+            children:
+              - name: "Tate Martin"
+              - name: "Liam Martin"
+          - name: "Jen Martin"
+            spouse: "Chris Morgan"
+            children:
+              - name: "James Savage"
+      - name: "Helen Hoskin"
+        spouse: "Frank Kaesehagen"
+        children:
+          - name: "Mark Kaesehagen"
+          - name: "Sue Kaesehagen"
+          - name: "Jane Kaesehagen"
+          - name: "Julie Kaesehagen"
+      - name: "Peter Martin"
