@@ -1,5 +1,4 @@
-family_trees:
-  - name: "Duncan Hooper"
+- name: "Duncan Hooper"
     spouse: "Elsie Finkle"
     children:
       - name: "Christine Hooper"
