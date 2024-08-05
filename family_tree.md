@@ -1,5 +1,5 @@
 ---
-layout: family_tree
+layout: default
 title: Family Trees
 ---
 
@@ -9,6 +9,7 @@ title: Family Trees
 <h2>Family Tree01</h2>
 <ul>
   {% for family in family_tree01 %}
+    <li>Debug: {{ family.name | default: "No name" }}</li>
     {% include family_tree.html data=family %}
   {% endfor %}
 </ul>
@@ -16,6 +17,7 @@ title: Family Trees
 <h2>Family Tree02</h2>
 <ul>
   {% for family in family_tree02 %}
+    <li>Debug: {{ family.name | default: "No name" }}</li>
     {% include family_tree.html data=family %}
   {% endfor %}
 </ul>
