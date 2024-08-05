@@ -9,17 +9,13 @@ title: Family Trees
 <h2>Family Tree01</h2>
 <ul>
   {% for family in family_tree01 %}
-    <li>
-      {% include family_tree.html data=family %}
-    </li>
+    {% include family_tree.html data=family %}
   {% endfor %}
 </ul>
 
 <h2>Family Tree02</h2>
 <ul>
   {% for family in family_tree02 %}
-    <li>
-      {% include family_tree.html data=family %}
-    </li>
+    {% include family_tree.html data=family %}
   {% endfor %}
 </ul>
