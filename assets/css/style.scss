@@ -5,3 +5,21 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+  ul {
+    list-style-type: none;
+  }
+  
+  .member {
+    font-weight: bold;
+  }
+  
+  .spouse {
+    font-style: italic;
+  }
+  
+  .children {
+    margin-left: 20px;
+    border-left: 1px solid #ccc;
+    padding-left: 10px;
+  }
