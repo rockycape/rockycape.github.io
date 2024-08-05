@@ -11,11 +11,15 @@ ul {
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 }
 
 li {
   margin: 10px 0;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .member {
@@ -30,52 +34,58 @@ li {
   font-style: italic;
 }
 
-li::before, li::after {
-  content: '';
-  position: absolute;
-  top: 0;
-}
-
-li::before {
-  border-left: 1px solid #000;
-  height: 20px;
-  left: 50%;
-  top: -80px; /* Adjust this value to connect the line properly */
-}
-
-li::after {
-  border-top: 1px solid #000;
-  width: 100%;
-  left: 0;
-  top: 10px;
-}
-
-li:first-child::before {
-  display: none;
-}
-
-li:last-child::after {
-  display: none;
-}
-
 .children {
   display: flex;
   justify-content: center;
-  margin-top: 10px;
   position: relative;
 }
 
 .children::before {
   content: '';
   position: absolute;
-  top: -10px; /* Adjust this value to connect the line properly */
+  top: 0;
+  left: 50%;
   border-top: 1px solid #000;
-  width: 100%;
-  left: 0;
+  width: 50%;
 }
 
-.children > li::before {
+.children::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 50%;
+  border-top: 1px solid #000;
+  width: 50%;
+}
+
+.children li::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
   border-left: 1px solid #000;
-  height: 10px;
-  top: -10px; /* Adjust this value to connect the line properly */
+  height: 20px;
+}
+
+.children li {
+  margin: 0 10px;
+  position: relative;
+}
+
+li::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  border-left: 1px solid #000;
+  height: 20px;
+}
+
+li::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  border-top: 1px solid #000;
+  width: 100%;
 }
