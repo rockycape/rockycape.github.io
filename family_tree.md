@@ -1,6 +1,6 @@
 ---
 layout: family_tree
-title: Family Trees
+title: Family Tree
 ---
 
 {% assign family_tree = site.data.family_tree.family_trees %}
