@@ -21,4 +21,3 @@ title: Family Trees
     {% include family_tree.html data=family %}
   {% endfor %}
 </ul>
-
