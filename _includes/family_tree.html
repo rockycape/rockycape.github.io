@@ -2,7 +2,7 @@
   {% for member in include.data %}
     <li>
       <div class="member">
-        {{ member.name | default: "No name" }}
+        {{ member.name }}
         {% if member.spouse %}
           <div class="spouse"> &amp; {{ member.spouse }}</div>
         {% endif %}
@@ -13,8 +13,7 @@
         </div>
       {% endif %}
     </li>
-  {% else %}
-    <li>No members found</li>
   {% endfor %}
 </ul>
+
   
