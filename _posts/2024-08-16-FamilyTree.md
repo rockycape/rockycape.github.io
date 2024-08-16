@@ -24,10 +24,10 @@ details details details {
   <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937), Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married ?)</summary>
   
   <details>
-    <summary>Christine Hooper 1938- & Robert Martin 1934-2007 (married ?)</summary>
+    <summary>Christine Hooper 1938- & Brian Snape 1936- (married 2024)</summary>
     
     <details>
-      <summary>Cathy Martin 1966- & Mike Addison 1964- (married ?)</summary>
+      <summary>Cathy Martin 1966- & Mike Addison 1964- (married 1998)</summary>
       <ul>
         <li>Addison/Martin child</li>
         <li>Addison/Martin child</li>
@@ -35,7 +35,7 @@ details details details {
     </details>
     
     <details>
-      <summary>Paul Martin 1970- & Flur Shelley 1969- (married ?)</summary>
+      <summary>Paul Martin 1970- & Flur Shelley 19XX- (married 2005)</summary>
       <ul>
         <li>Martin/Shelley child</li>
         <li>Martin/Shelley child</li>
@@ -43,7 +43,7 @@ details details details {
     </details>
     
     <details>
-      <summary>Jen Martin 1972- & Ben Savage (married ?)</summary>
+      <summary>Jen Martin 1972- & Chris Morgan (married 2020)</summary>
       <ul>
         <li>Savage/Martin child</li>
 
