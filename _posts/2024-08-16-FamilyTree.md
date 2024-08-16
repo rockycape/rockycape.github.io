@@ -4,6 +4,21 @@ title: Family Tree
 categories: web
 ---
 
+<style>
+details {
+  margin-left: 20px; /* Adjust the value as needed */
+}
+
+details details {
+  margin-left: 40px; /* Adjust the value as needed */
+}
+
+details details details {
+  margin-left: 60px; /* Adjust the value as needed */
+}
+
+/* Continue this pattern for deeper nesting levels if necessary */
+</style>
 
 <details>
   <summary>Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998</summary>
@@ -31,37 +46,5 @@ categories: web
       <summary>Jen Martin 1972- & Ben Savage (married ?)</summary>
       <ul>
         <li>Savage/Martin child</li>
-      </ul>
-    </details>
-
-    <details>
-      <summary>Jen Martin & Chris Morgan (married ?)</summary>
-    </details>
-    
-    <details>
-      <summary>Christine Hooper 1938- & Ian Marshall (married ?)</summary>
-    </details>
-    
-    <details>
-      <summary>Christine Hooper 1938- & Brian Snape (married 2024)</summary>
-    </details>
-    
-  </details>
-  
-  <details>
-    <summary>Helen Martin & Frank Kaesehagen (married ?)</summary>
-    <ul>
-      <li>Mark Kaesehagen</li>
-      <li>Sue Kaesehagen</li>
-      <li>Jane Kaesehagen</li>
-      <li>Julie Kaesehagen</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Peter Martin & Sue (married ?)</summary>
-  </details>
-
-
 
 
