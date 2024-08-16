@@ -21,7 +21,7 @@ details details details {
 </style>
 
 <details>
-  <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937), Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married ?)</summary>
+  <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937), Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married 1933)</summary>
   
   <details>
     <summary>Christine Hooper 1938- & Brian Snape 1936- (married 2024)</summary>
