@@ -34,6 +34,7 @@ details details details img {
 </style>
   <details>
     <summary>Edward Martin 1846-1929 (Police Officer in charge - Mackay - retired 1907)  & Lilian Margaret Fanny Eves (married 1895)</summary>
+    <img src="/assets/EdwardMartin1906 15cm x 10cm.jpg" style="width: 50%; height: auto;" alt="EdwardMartin1906 15cm x 10cm.jpg">
     <details>
       <summary>Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married 1933)</summary>
       <details>
