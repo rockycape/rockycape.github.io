@@ -37,7 +37,7 @@ details details details img {
   <details>
     <summary>Edward Martin 1846-1929 & (married ?)</summary>
     <details>
-      <summary>Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married ?)</summary>
+      <summary>Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married 1933)</summary>
       <details>
         <summary>Robert Martin 1934-2007 Christine Hooper 1938- (married 1963)</summary>
         <img src="/assets/4.jpg" style="width: 50%; height: auto;" alt="Image 4">
