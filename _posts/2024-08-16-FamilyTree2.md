@@ -33,7 +33,7 @@ details details details img {
 /* Continue this pattern for deeper nesting levels if necessary */
 </style>
 <details>
-  <summary>Richard S Hooper 1845-1927 & Charlotte Bovingdon 1848-1929</summary>
+  <summary>Richard S Hooper 1845-1927 & Charlotte Bovingdon 1848-1929 (married ?)</summary>
   <details>
     <summary>Richard S Hooper 1874-1947 & Janet S Mackenzie 1872 - 1929 (married ?)</summary>
     <details>
