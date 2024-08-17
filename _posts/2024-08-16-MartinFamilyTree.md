@@ -33,13 +33,13 @@ details details details img {
 /* Continue this pattern for deeper nesting levels if necessary */
 </style>
 <details>
-  <summary>Richard S Hooper 1845-1927 & Charlotte Bovingdon 1848-1929 (married 1871)</summary>
+  <summary>Martin & ? (married ?)</summary>
   <details>
-    <summary>Richard S Hooper 1874-1947 & Janet S Mackenzie 1872 - 1929 (married 1900)</summary>
+    <summary>Edward Martin 1846-1929 & (married ?)</summary>
     <details>
-      <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937)</summary>
+      <summary>Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married ?)</summary>
       <details>
-        <summary>Robert Martin 1934-2007 Christine Hooper 1938- (married ?)</summary>
+        <summary>Robert Martin 1934-2007 Christine Hooper 1938- (married 1963)</summary>
         <img src="/assets/4.jpg" style="width: 50%; height: auto;" alt="Image 4">
         <details>
           <summary>Cathy Martin 1966- & Mike Addison 1964- (married 1998)</summary>
