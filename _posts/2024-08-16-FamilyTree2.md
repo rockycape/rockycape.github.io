@@ -33,9 +33,9 @@ details details details img {
 /* Continue this pattern for deeper nesting levels if necessary */
 </style>
 <details>
-  <summary>Richard S Hooper 1845-1927 & Charlotte Bovingdon 1848-1929 (married ?)</summary>
+  <summary>Richard S Hooper 1845-1927 & Charlotte Bovingdon 1848-1929 (married 1871)</summary>
   <details>
-    <summary>Richard S Hooper 1874-1947 & Janet S Mackenzie 1872 - 1929 (married ?)</summary>
+    <summary>Richard S Hooper 1874-1947 & Janet S Mackenzie 1872 - 1929 (married 1900)</summary>
     <details>
       <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937)</summary>
       <details>
