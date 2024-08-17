@@ -32,8 +32,6 @@ details details details img {
 
 /* Continue this pattern for deeper nesting levels if necessary */
 </style>
-<details>
-  <summary>Martin & ? (married ?)</summary>
   <details>
     <summary>Edward Martin 1846-1929 & (married ?)</summary>
     <details>
@@ -67,4 +65,4 @@ details details details img {
       </details>
     </details>
   </details>
-</details>
+
