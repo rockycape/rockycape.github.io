@@ -37,7 +37,7 @@ details details details img {
   <details>
     <summary>Richard S Hooper 1874-1947 & Janet S Mackenzie 1872 - 1929 (married ?)</summary>
     <details>
-      <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937), Thomas Vincent Martin 1900-1948 & Enid Jane Hoskin 1904-1998 (married 1933)</summary>
+      <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937)</summary>
       <details>
         <summary>Christine Hooper 1938- & Brian Snape 1936- (married 2024)</summary>
         <img src="/assets/4.jpg" style="width: 50%; height: auto;" alt="Image 4">
