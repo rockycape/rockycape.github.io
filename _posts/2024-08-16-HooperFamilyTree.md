@@ -39,7 +39,7 @@ details details details img {
     <details>
       <summary>Duncan Hooper 1912-1990 & Elsie Finkl 1914-1998 (married 1937)</summary>
       <details>
-        <summary>Robert Martin 1934-2007 Christine Hooper 1938- (married ?)</summary>
+        <summary>Christine Hooper 1938- & Brian Snape 1936- (married 2024)</summary>
         <img src="/assets/4.jpg" style="width: 50%; height: auto;" alt="Image 4">
         <details>
           <summary>Cathy Martin 1966- & Mike Addison 1964- (married 1998)</summary>
