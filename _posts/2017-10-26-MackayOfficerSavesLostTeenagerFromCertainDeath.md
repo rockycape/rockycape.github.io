@@ -57,4 +57,4 @@ He was next faced with getting the girl home and "this was no easy matter, notwi
 
 Lottie was later sent to "the asylum", the *Cairns Morning Post* said.
 
-Originally published as [FLASHBACK: Mackay officer saves lost teenager from certain death](https://www.newsregionalmedia.com.au/news/flashback-mackay-officer-saves-lost-teenager-from-certain-death/news-story/45e7b55b3e33cb3cf4623a2eba458275)
+Originally published as [FLASHBACK: Mackay officer saves lost teenager from certain death](https://www.couriermail.com.au/news/queensland/mackay/flashback-mackay-officer-saves-lost-teenager-from-certain-death/news-story/45e7b55b3e33cb3cf4623a2eba458275)
