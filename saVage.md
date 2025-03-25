@@ -4,12 +4,17 @@ title: "saVage"
 permalink: /saVage/
 ---
 
-saVage is an elite CSGO eSport competitor who is currently on team SemperFi. Previously saVage has been a member of various CS2 eSport teams including:
+saVage is an elite CSGO eSport competitor who is currently on team SemperFi. 
+
+![SemperFi](/assets/SemperFi.png)
+
+
+Previously saVage has been a member of various CS2 eSport teams including:
 
 Encore - saVage and all other team members left April 2023
 Vertex - saVage left February 2023
 
-
+SemperFi
 
 [AliStair](https://escharts.com/players/alistair) Alistair Johnston 14.03.2025  
 
@@ -55,12 +60,6 @@ Oldest player [AliStair 27 years, 07.04.1998](https://escharts.com/players/alist
 	- Valiance (Matthew Hartrick)
 	- Keen (Kristers Dārznieks)
 	- shadiy (Martins Gūtmanis)
-- ### How do you get on an esports team?
-	To join an esports team, focus on improving your skills in a specific game and participate in online tournaments to gain experience and showcase your abilities. Build an online presence, network with players and influencers, and attend local events to increase your chances of being noticed by team managers or scouts. Esports Charts offers a listing of [top tournaments](https://escharts.com/tournaments) with information about location, prize pool and other stats.
-- ### Who is SemperFi Esports CS2 team in-game leader?
-	Currently, we don't have information about SemperFi Esports Counter-Strike team in-game leader.
-- ### What are upcoming matches for SemperFi Esports CS2 team?
-	Currently, there are no upcoming matches in SemperFi Esports Counter-Strike team schedule.
 - ### What are the top tournaments with SemperFi Esports CS2 team?
 	Top 3 tournaments with SemperFi Esports Counter-Strike team:
 	- 1st - eXTREMESLAND 2024
@@ -68,10 +67,7 @@ Oldest player [AliStair 27 years, 07.04.1998](https://escharts.com/players/alist
 	- 3rd - EPL World Series: Oceania Season 1
 - ### What is the average age of the SemperFi Esports's players?
 	Average players age of current team is 23
-- ### How do esports teams make money?
-	We calculate the prize pool by summary of winnings.
-- ### What is the SemperFi Esports's rank in the global popularity ranking?
-	SemperFi Esports is 14371 rank in Global ranking by All-time Peak Viewers.
+
  
 
 ![](/assets/saVage-departs-Vertex-Feb2023.jpeg) 
