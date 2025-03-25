@@ -9,23 +9,20 @@ saVage is an elite CSGO eSport competitor who is currently on team SemperFi. Pre
 Encore - saVage and all other team members left April 2023
 Vertex - saVage left February 2023
 
----
-title: SemperFi Esports CS2 (SemperFi) Team Overview and Viewers Statistics | Esports Charts
-source: https://escharts.com/teams/csgo/semperfi-esports
-author:
-  - "[[@esportscharts]]"
-published: 14.01.2025 -                27.03.2025
-created: 2025-03-25
-description: SemperFi Esports Counter-Strike ► information about SemperFi CS2 esports team
-tags:
----
 
-[AliStair](https://escharts.com/players/alistair) Alistair Johnston 14.03.2025 
-[SaVage](https://escharts.com/players/savage-csgo) James Savage 28.07.2024 
-[Valiance](https://escharts.com/players/valiance-australian-player) Matthew Hartrick 28.07.2024 
-[Keen](https://escharts.com/players/keen-csgo) Kristers Dārznieks 28.07.2024 
-[shadiy](https://escharts.com/players/shadiy) Martins Gūtmanis 28.07.2024 
-[Kingfisher](https://escharts.com/players/kingfisher) Coach David Kingsford 05.03.2025
+
+[AliStair](https://escharts.com/players/alistair) Alistair Johnston 14.03.2025  
+
+[SaVage](https://escharts.com/players/savage-csgo) James Savage 28.07.2024  
+
+[Valiance](https://escharts.com/players/valiance-australian-player) Matthew Hartrick 28.07.2024  
+
+[Keen](https://escharts.com/players/keen-csgo) Kristers Dārznieks 28.07.2024  
+
+[shadiy](https://escharts.com/players/shadiy) Martins Gūtmanis 28.07.2024  
+
+[Kingfisher](https://escharts.com/players/kingfisher) Coach David Kingsford 05.03.2025  
+
 
 Average players age 23 years 
 Youngest player [SaVage 19 years, 02.02.2005](https://escharts.com/players/savage-csgo) 
