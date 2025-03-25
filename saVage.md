@@ -9,11 +9,6 @@ saVage is an elite CSGO eSport competitor who is currently on team SemperFi.
 ![SemperFi](/assets/SemperFi.png)
 
 
-Previously saVage has been a member of various CS2 eSport teams including:
-
-Encore - saVage and all other team members left April 2023
-Vertex - saVage left February 2023
-
 SemperFi
 
 [AliStair](https://escharts.com/players/alistair) Alistair Johnston 14.03.2025  
@@ -68,7 +63,10 @@ Oldest player [AliStair 27 years, 07.04.1998](https://escharts.com/players/alist
 - ### What is the average age of the SemperFi Esports's players?
 	Average players age of current team is 23
 
- 
+ Previously saVage has been a member of various CS2 eSport teams including:
+
+Encore - saVage and all other team members left April 2023
+Vertex - saVage left February 2023
 
 ![](/assets/saVage-departs-Vertex-Feb2023.jpeg) 
 
