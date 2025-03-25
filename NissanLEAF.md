@@ -13,9 +13,9 @@ assets/LEAF_2021_MediaKit_Digital_FINAL_V2.pdf
 rockycape/rockycape.github.io/assets/Nissan LEAF e+ Press Release - FINAL.pdf
 rockycape/rockycape.github.io/assets/LEAF_2021_MediaKit_Digital_FINAL_V2.pdf
 
-<a href="/rockycape/rockycape.github.io/assets/Nissan LEAF e+ Press Release - FINAL.pdf  " target="_blank">Nissan LEAF e+ Press Release - FINAL.pdf  </a>
+<a href="/rockycape.github.io/assets/Nissan LEAF e+ Press Release - FINAL.pdf  " target="_blank">Nissan LEAF e+ Press Release - FINAL.pdf  </a>
 
-<a href="/rockycape/rockycape.github.io/assets/LEAF_2021_MediaKit_Digital_FINAL_V2.pdf  " target="_blank">LEAF_2021_MediaKit_Digital_FINAL_V2.pdf  </a>
+<a href="/rockycape.github.io/assets/LEAF_2021_MediaKit_Digital_FINAL_V2.pdf  " target="_blank">LEAF_2021_MediaKit_Digital_FINAL_V2.pdf  </a>
 
 
 
