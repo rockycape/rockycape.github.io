@@ -4,6 +4,9 @@ title: "NissanLEAF"
 permalink: /NissanLEAF/
 ---
 
+[Nissan LEAF e-flagship has arrived in Australia - more power and more range](https://australia.nissannews.com/en-AU/releases/nissan-leaf-e-flagship-has-arrived-in-australia-more-power-more-range-more-leaf)  
+
+
 <a href="/assets/Nissan LEAF e+ Press Release - FINAL.pdf  " target="_blank">Nissan LEAF e+ Press Release - FINAL.pdf  </a>
 
 <a href="/assets/LEAF_2021_MediaKit_Digital_FINAL_V2.pdf  " target="_blank">LEAF_2021_MediaKit_Digital_FINAL_V2.pdf  </a>
