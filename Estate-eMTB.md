@@ -12,12 +12,23 @@ Let's start with the battery as it is probably the most expensive part that like
 
 Reention EEL MINI 36v 10ah battery - this is the battery that is originally supplied with the Estate eMTB  
 
-Note: There is a physically larger battery called the Reention EEL PRO and this form factor is too large and does not fit the Estate eMTB.  There is also a larger capacity battery than origianlly supplied with Estate eMTB that fits and it is still 36V but is 14ah up from 10ah  
+Note: There is a physically larger battery called the Reention EEL PRO and this form factor is too large and does not fit the Estate eMTB.  There is also a larger capacity battery than originally supplied with Estate eMTB that fits and it is still 36V but is 14ah up from 10ah  
 
 
 ![](/assets/reention-eel-Pro-mini-inner-ebike-battery-36v-48v-10-4ah-11-6ah-14ah-17-5ah.jpeg)  
 ![](/assets/reention-eel-Pro-mini-inner-ebike-battery-36v-48v-10-4ah-11-6ah-14ah-17-5ah.webp)  
 
+Picked up a 2nd battery the other day for $329 which I thought was a decent price. Here is the link.
+https://www.kogan.com/au/buy/fortis-275-36v-10ah-hybrid-pro-commuter-electric-mountain-bike-battery-fortis/
+
+In case it helps others I can confirm it charges fine with my existing charger and fits the bike frame well.
+
+The other site that has batteries is https://velectrix.com.au/product-category/accessories-parts/electrical-bike-parts/battery-battery-chargers/
+
+Reention Mini Eel 418 Watt Hour, 36 Volt Battery (single pin charger port)
+$649.00
+
+Finally, it's the single pin charger port that is originally supplied with the Estate eMTB that is required for it to work with the original supplied charger(the other option for batteries is a 3 pin charger port plug that does not work with the supplied charger).
 
 *Drivetrain Components:*
 
