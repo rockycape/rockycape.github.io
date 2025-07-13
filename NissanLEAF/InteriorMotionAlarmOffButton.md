@@ -1,6 +1,5 @@
 ---
 layout: page
-categories: tech
 ---
 
 ![Nissan LEAF Motion Alarm Off Button](/assets/NissanLEAFMotionAlarmOffButton.jpeg)
