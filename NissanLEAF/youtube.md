@@ -1,6 +1,6 @@
 ---
 layout: page  
-youtubeId: 9mcQ0UNBBOY?  
+youtubeId: 9neBv6aZI2U 
 
 {% comment %} youtubeId: StVBWcPjYHk?clip=Ugkx8hE5H0eHHafqQRlB1uzT0ynIa-vrbTKy&amp;clipt=EJXdFBj1sRg - This line is an example of a youtube video that has been clipped which is why it is longer {% endcomment %}
 
@@ -10,4 +10,5 @@ youtubeId: 9mcQ0UNBBOY?
 
 [01. So you’ve got an EV! Now what? Ten things you need - Andrew Till - Mr. EV](https://www.youtube.com/watch?v=9mcQ0UNBBOY)  
 [02. Nissan Keys Professional Programming](http://www.youtube.com/watch?v=30IRv3PIkfs)  
+[03. Wish we'd done it sooner! Solar and battery export: how much have we made? - Andrew Till - Mr. EV](http://www.youtube.com/watch?v=9neBv6aZI2U) 
 
