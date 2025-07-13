@@ -8,8 +8,7 @@ youtubeId: 9neBv6aZI2U
 
 [01. So you’ve got an EV! Now what? Ten things you need - Andrew Till - Mr. EV](https://www.youtube.com/watch?v=9mcQ0UNBBOY)  
 [02. Nissan Keys Professional Programming](http://www.youtube.com/watch?v=30IRv3PIkfs)  
-[03. Wish we'd done it sooner! Solar and battery export: how much have we made? - Andrew Till - Mr. EV](http://www.youtube.com/watch?v=9neBv6aZI2U)
+[03. Wish we'd done it sooner! Solar and battery export: how much have we made? - Andrew Till - Mr. EV](http://www.youtube.com/watch?v=9neBv6aZI2U)  
 [04. Nissan leaf 62kWh battery pack installation tutorial - VIVNE-Cora Liu](http://www.youtube.com/watch?v=8T4htmSivG8)
-
 
 [05. How’s our old Nissan Leaf doing? Let's talk battery health, running costs, failed washer pump & more - Andrew Till - Mr. EV](https://www.youtube.com/watch?v=kpMZprdurSw&t=1208s)  
