@@ -7,10 +7,8 @@ permalink: /NissanLEAF/
 
 [Nissan Leaf Youtube Videos](NissanLEAF/youtube.md)  
 
-[Interior Motion Alarm Off Button](NissanLEAF/InteriorMotionAlarmOffButton.md)  
-
-[LEAF Hatchback A and B buttons](NissanLEAF/HatchbackAandBbuttons.md)  
-
+[Interior Motion Alarm Off Button](NissanLEAF/InteriorMotionAlarmOffButton.md)   
+[Hatchback A and B button](NissanLEAF/HatchbackAandBbutton.md)
 
 [Nissan LEAF e-flagship has arrived in Australia - more power and more range](https://australia.nissannews.com/en-AU/releases/nissan-leaf-e-flagship-has-arrived-in-australia-more-power-more-range-more-leaf)  
 
@@ -119,3 +117,5 @@ Email: [Dominique\_Duce@nissan.com.au](https://australia.nissannews.com/en-AU/re
 5. Time dependent on charging conditions, including charger type and condition, battery temperature as well as ambient temperature at point of use. Indicated rapid charging time requires use of a CHAdeMO rapid charger. The Nissan LEAF (40kW & 62kW) are designed to support the majority of journeys in daily life and is equipped with charging safeguards to protect the battery during repeated rapid charging sessions in a short period of time. The time taken for successive rapid charging can take longer if the battery temperature activates the battery safeguarding technology.
 6. Manufacturer suggested retail prices (MSRP) are provided for media purposes only and do not include statutory charges or other on-road costs.
 Issued by Nissan
+
+[def]: NissanLEAF/HatchbackAandBbuttons.md
