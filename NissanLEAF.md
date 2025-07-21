@@ -8,7 +8,7 @@ permalink: /NissanLEAF/
 [Nissan Leaf Youtube Videos](NissanLEAF/youtube.md)  
 
 [Interior Motion Alarm Off Button](NissanLEAF/InteriorMotionAlarmOffButton.md)  
-
+[LEAF Hatchback A and B buttons](NissanLEAF/LEAFHatchbackAandBbuttons.md)  
 
 
 [Nissan LEAF e-flagship has arrived in Australia - more power and more range](https://australia.nissannews.com/en-AU/releases/nissan-leaf-e-flagship-has-arrived-in-australia-more-power-more-range-more-leaf)  
