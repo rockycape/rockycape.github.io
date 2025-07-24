@@ -2,9 +2,9 @@
 layout: page
 ---
 
-On the Australian Nissan LEAF, what is the difference between the following two similar safety functions?
-(a) LANE DEPARTURE WARNING (LDW) SYSTEM 
-(b) INTELLIGENT LANE INTERVENTION (ILI) SYSTEM
+On the Australian Nissan LEAF, what is the difference between the following two similar safety functions?  
+(a) LANE DEPARTURE WARNING (LDW) SYSTEM  
+(b) INTELLIGENT LANE INTERVENTION (ILI) SYSTEM  
 
 ---
 
