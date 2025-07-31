@@ -13,5 +13,6 @@ youtubeId: 9neBv6aZI2U
 [04. Nissan leaf 62kWh battery pack installation tutorial - VIVNE-Cora Liu](http://www.youtube.com/watch?v=8T4htmSivG8)  
 [05. How’s our old Nissan Leaf doing? Let's talk battery health, running costs, failed washer pump & more - Andrew Till - Mr. EV](https://www.youtube.com/watch?v=kpMZprdurSw&t=1208s)  
 [06. Nissan Leaf specialist adding their motors to classics and more!](https://www.youtube.com/watch?v=lty90RPf4hg)  
+[07. NISSAN LEAF CS2 charging cable LOCK FAULTY!!! HOW TO LOCK or UNLOCK!! EMERGENCY solution](https://www.youtube.com/watch?v=NBOx0Qooxdw)  
 
 
