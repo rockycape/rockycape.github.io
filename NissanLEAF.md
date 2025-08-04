@@ -5,6 +5,8 @@ permalink: /NissanLEAF/
 ---
 29/04/2021
 
+[Nissan LEAF HV battery charging the 12v battery](/assets/NissanLEAF12VbatterybeingchargedbyHVbattery.mp4)  
+
 [Nissan Leaf Youtube Videos](NissanLEAF/youtube.md)  
 
 [Interior Motion Alarm Off Button](NissanLEAF/InteriorMotionAlarmOffButton.md)   
