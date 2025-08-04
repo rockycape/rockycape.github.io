@@ -3,6 +3,7 @@ layout: page
 title: "Syncthing"
 ---
 
+![Syncthing Android-webGUI](/assets/syncthingwebGUI.png) 
 
 Syncthing setup for mobile device after setting up computer device
 
