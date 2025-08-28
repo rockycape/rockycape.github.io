@@ -9,9 +9,13 @@ permalink: /NissanLEAF/
 
 [Nissan Leaf Youtube Videos](NissanLEAF/youtube.md)  
 
-[Interior Motion Alarm Off Button](NissanLEAF/InteriorMotionAlarmOffButton.md)   
-[Hatchback A and B button](NissanLEAF/HatchbackAandBbutton.md)  
-[Lane Departure Warning (LDW) and Intelligent Lane Intervention (ILI)](LaneDepartureWarningAndIntelligentLaneIntervention)  
+[Interior Motion Alarm Off Button](NissanLEAF/InteriorMotionAlarmOffButton.md)
+
+[Hatchback A and B button](NissanLEAF/HatchbackAandBbutton.md)
+
+[Lane Departure Warning (LDW) and Intelligent Lane Intervention (ILI)](LaneDepartureWarningAndIntelligentLaneIntervention)
+
+[](/NissanLEAF/AndroidAutoSearchForChargingStations.md)
 
 [Nissan LEAF e-flagship has arrived in Australia - more power and more range](https://australia.nissannews.com/en-AU/releases/nissan-leaf-e-flagship-has-arrived-in-australia-more-power-more-range-more-leaf)  
 
