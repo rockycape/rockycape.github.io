@@ -15,7 +15,7 @@ permalink: /NissanLEAF/
 
 [Lane Departure Warning (LDW) and Intelligent Lane Intervention (ILI)](LaneDepartureWarningAndIntelligentLaneIntervention)
 
-[Android Auto - Search for charging stations]](/NissanLEAF/AndroidAutoSearchForChargingStations.md)
+[Android Auto - Search for charging stations](/NissanLEAF/AndroidAutoSearchForChargingStations.md)
 
 [Nissan LEAF e-flagship has arrived in Australia - more power and more range](https://australia.nissannews.com/en-AU/releases/nissan-leaf-e-flagship-has-arrived-in-australia-more-power-more-range-more-leaf)  
 
