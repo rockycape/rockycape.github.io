@@ -125,4 +125,5 @@ Email: [Dominique\_Duce@nissan.com.au](https://australia.nissannews.com/en-AU/re
 6. Manufacturer suggested retail prices (MSRP) are provided for media purposes only and do not include statutory charges or other on-road costs.
 Issued by Nissan
 
-[def]: NissanLEAF/HatchbackAandBbuttons.md
+[Hatchback A and B buttons](NissanLEAF/HatchbackAandBbuttons.md) 
+[Servive](/NissanLEAF/service.md) 
