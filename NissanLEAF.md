@@ -5,19 +5,6 @@ permalink: /NissanLEAF/
 ---
 29/04/2021
 
-<svg width="100" height="100" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="40" fill="skyblue"
-          style="animation:pulse 2s infinite"/>
-</svg>
-
-<style>
-@keyframes pulse {
-  0%   { fill: skyblue; }
-  50%  { fill: steelblue; }
-  100% { fill: skyblue; }
-}
-</style>
-
 
 
 [Nissan LEAF HV battery charging the 12v battery](/assets/NissanLEAF12VbatterybeingchargedbyHVbattery.mp4)  
