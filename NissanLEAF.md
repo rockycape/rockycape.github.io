@@ -5,6 +5,25 @@ permalink: /NissanLEAF/
 ---
 29/04/2021
 
+# Fancy Circle
+
+Here’s an animated circle made with inline SVG:
+
+<style>
+  .spin { 
+    animation: spin 4s linear infinite; 
+    transform-origin: 50% 50%; 
+  }
+  @keyframes spin {
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
+<svg width="100" height="100" viewBox="0 0 100 100">
+  <circle class="spin" cx="50" cy="50" r="40" fill="tomato"/>
+</svg>
+
+
 [Nissan LEAF HV battery charging the 12v battery](/assets/NissanLEAF12VbatterybeingchargedbyHVbattery.mp4)  
 
 [Nissan Leaf Youtube Videos](NissanLEAF/youtube.md)  
