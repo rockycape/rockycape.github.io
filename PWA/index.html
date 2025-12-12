@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#4CAF50">
+  <style>
+    html,
+    body {
+      margin: 0;
+      height: 100%;
+      font-family: sans-serif;
+    }
+
+    /* Info bar with Flexbox for alignment */
+    #info {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      transform: translateY(-50%);
+      /* text-align: center;  <-- Removed */
+      background: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      border-radius: 10px;
+      z-index: 10;
+
+      /* Flexbox layout */
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #game-status {
+      font-size: 24px;
+      text-align: left;
+    }
+
+    #undo-btn {
+      font-size: 18px;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      /* Vertical split */
+      height: 100%;
+    }
+
+    .half {
+      flex: 1;
+      display: flex;
+    }
+
+    .quadrant {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 60px;
+      color: white;
+      user-select: none;
+      cursor: pointer;
+    }
+
+    /* Colors for quadrants */
+    #A_left {
+      background: #ffc966;
+      color: black;
+    }
+
+    /* light orange */
+    #A_right {
+      background: orange;
+    }
+
+    #B_left {
+      background: gray;
+    }
+
+    #B_right {
+      background: lightgray;
+      color: black;
+    }
+
+    /* Modal styles */
+    .modal {
+      display: none;
+      /* Hidden by default */
+      position: fixed;
+      z-index: 100;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      /* Black w/ opacity */
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal-content {
+      background-color: white;
+      padding: 30px;
+      border-radius: 15px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .modal h2 {
+      margin-top: 0;
+      font-size: 32px;
+    }
+
+    .modal p {
+      font-size: 24px;
+      margin: 20px 0;
+    }
+
+    #new-game-btn {
+      font-size: 20px;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #new-game-btn:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./service-worker.js')
+          .then((registration) => {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          }, (err) => {
+            console.log('ServiceWorker registration failed: ', err);
+          });
+      });
+    }
+  </script>
+
+  <div id="info">
+    <div id="game-status">Tap a team to serve first</div>
+    <button id="undo-btn" onclick="undo()">Undo</button>
+  </div>
+
+  <!-- Win Modal -->
+  <div id="win-modal" class="modal">
+    <div class="modal-content">
+      <h2 id="win-message"></h2>
+      <p id="win-score"></p>
+      <button id="new-game-btn" onclick="resetGame()">Start New Game</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- Top half Team A -->
+    <div class="half">
+      <div id="A_left" class="quadrant"></div>
+      <div id="A_right" class="quadrant"></div>
+    </div>
+
+    <!-- Bottom half Team B -->
+    <div class="half">
+      <div id="B_left" class="quadrant"></div>
+      <div id="B_right" class="quadrant"></div>
+    </div>
+  </div>
+
+  <script>
+    let scoreA = 0;
+    let scoreB = 0;
+
+    let servingTeam = null;
+    let serverNumber = 2;
+    let firstServiceUsed = false;
+
+    // Track the server's current side: "right" or "left"
+    let serverSide = "right";
+    // Track the active quadrant ID for display
+    let serverQuadrant = null;
+
+    // History stack for Undo
+    let historyStack = [];
+
+    function saveState() {
+      const state = {
+        scoreA,
+        scoreB,
+        servingTeam,
+        serverNumber,
+        firstServiceUsed,
+        serverSide,
+        serverQuadrant
+      };
+      // Keep only last 50 states (optional optimization)
+      if (historyStack.length > 50) historyStack.shift();
+      historyStack.push(state);
+    }
+
+    function undo() {
+      if (historyStack.length === 0) return; // Nothing to undo
+
+      const lastState = historyStack.pop();
+      scoreA = lastState.scoreA;
+      scoreB = lastState.scoreB;
+      servingTeam = lastState.servingTeam;
+      serverNumber = lastState.serverNumber;
+      firstServiceUsed = lastState.firstServiceUsed;
+      serverSide = lastState.serverSide;
+      serverQuadrant = lastState.serverQuadrant;
+
+      updateDisplay();
+    }
+
+    function updateServerQuadrant() {
+      if (!servingTeam) {
+        serverQuadrant = null;
+        return;
+      }
+
+      // Determine quadrant based on team and side
+      if (servingTeam === "A") {
+        // Team A (Top): Right is A_left, Left is A_right
+        serverQuadrant = (serverSide === "right") ? "A_left" : "A_right";
+      } else {
+        // Team B (Bottom): Right is B_right, Left is B_left
+        serverQuadrant = (serverSide === "right") ? "B_right" : "B_left";
+      }
+    }
+
+    function pointWonBy(team) {
+      saveState(); // Save state before changing anything
+
+      // Choose first serving team
+      if (servingTeam === null) {
+        servingTeam = team;
+        serverNumber = 2;
+        serverSide = "right"; // Start game (0-0-2) from standard Right side
+        updateServerQuadrant();
+        updateDisplay();
+        return;
+      }
+
+      const serving = servingTeam;
+      const receiving = (servingTeam === "A") ? "B" : "A";
+      const scores = { A: scoreA, B: scoreB };
+
+      if (team === serving) {
+        // Server wins point
+        if (serving === "A") scoreA++;
+        else scoreB++;
+
+        // Server switches sides on point win
+        serverSide = (serverSide === "right") ? "left" : "right";
+
+      } else {
+        // Receiver wins (service loss)
+        if (!firstServiceUsed) {
+          // Special case for very first serve of game (0-0-2)
+          firstServiceUsed = true;
+          // Side out immediately
+          servingTeam = receiving;
+          serverNumber = 1;
+          serverSide = "right";
+
+        } else {
+          // Normal play
+          if (serverNumber === 1) {
+            // Server 1 lost -> Server 2
+            serverNumber = 2;
+            // If score is Even, Server 1 was Right, so Server 2 is Left
+            // If score is Odd, Server 1 was Left, so Server 2 is Right
+            serverSide = (serverSide === "right") ? "left" : "right";
+          } else {
+            // Server 2 lost -> Side out
+            servingTeam = receiving;
+            serverNumber = 1;
+            serverSide = "right";
+          }
+        }
+      }
+
+      updateServerQuadrant();
+      updateDisplay();
+      checkWin();
+    }
+
+    function updateDisplay() {
+      const quadrants = ["A_left", "A_right", "B_left", "B_right"];
+      const scores = { A: scoreA, B: scoreB };
+
+      quadrants.forEach(q => {
+        const team = q.startsWith("A") ? "A" : "B";
+        document.getElementById(q).textContent =
+          (q === serverQuadrant) ? scores[team] : "";
+      });
+
+      const undoBtn = document.getElementById("undo-btn");
+      if (historyStack.length === 0) {
+        undoBtn.disabled = true;
+        undoBtn.style.opacity = 0.5;
+      } else {
+        undoBtn.disabled = false;
+        undoBtn.style.opacity = 1;
+      }
+
+      if (!servingTeam) {
+        document.getElementById("game-status").innerHTML = "Tap a team to serve first";
+        return;
+      }
+
+      const servingScore = servingTeam === "A" ? scoreA : scoreB;
+      const receivingScore = servingTeam === "A" ? scoreB : scoreA;
+      const call = `${servingScore} - ${receivingScore} - ${serverNumber}`;
+
+      document.getElementById("game-status").innerHTML =
+        `Serving: Team ${servingTeam} (Server ${serverNumber})<br>
+     Official Call: ${call}`;
+    }
+
+    function checkWin() {
+      const diff = Math.abs(scoreA - scoreB);
+      if ((scoreA >= 11 || scoreB >= 11) && diff >= 2) {
+        // Show custom modal
+        const winner = scoreA > scoreB ? "Team A" : "Team B";
+        document.getElementById('win-message').textContent = `${winner} Wins!`;
+        document.getElementById('win-score').textContent = `Final Score: ${scoreA} - ${scoreB}`;
+
+        const modal = document.getElementById('win-modal');
+        modal.style.display = 'flex';
+      }
+    }
+
+    function resetGame() {
+      scoreA = 0;
+      scoreB = 0;
+      servingTeam = null;
+      serverNumber = 2;
+      firstServiceUsed = false;
+      serverSide = "right";
+      serverQuadrant = null;
+      historyStack = []; // Clear history on reset
+
+      updateDisplay();
+
+      // Hide modal
+      document.getElementById('win-modal').style.display = 'none';
+    }
+
+    // Assign clicks
+    ["A_left", "A_right"].forEach(id =>
+      document.getElementById(id).onclick = () => pointWonBy("A")
+    );
+    ["B_left", "B_right"].forEach(id =>
+      document.getElementById(id).onclick = () => pointWonBy("B")
+    );
+
+    updateDisplay();
+  </script>
+
+</body>
+
+</html>
