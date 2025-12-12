@@ -2,7 +2,8 @@ const CACHE_NAME = 'pickleball-scorer-v1';
 const ASSETS_TO_CACHE = [
     './index.html',
     './manifest.json',
-    './icon.png'
+    './icon-maskable-192.png',
+    './icon-maskable-512.png'
 ];
 
 self.addEventListener('install', (event) => {
