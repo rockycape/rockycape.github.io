@@ -3,6 +3,10 @@ layout: page
 title: "CoderDojoBalwyn"
 permalink: /coderdojobalwyn/
 ---
+[click01](intent://assistant/#Intent;action=android.intent.action.VOICE_COMMAND;S.query=play%20my%20library%20playlist%20Hockey%20Stick%20on%20Spotify;package=com.google.android.googlequicksearchbox;end)  
+[click02](intent://sendcommand?text=play%20my%20library%20playlist%20Hockey%20Stick%20on%20Spotify#Intent;package=com.google.android.apps.bard;end)  
+[click03](intent://#Intent;package=com.google.android.apps.bard;end)  
+
 
 
 ### ![CoderDojoBalwyn](favicon-32x32.png)  CoderDojoBalwyn
