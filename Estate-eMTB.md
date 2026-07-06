@@ -3,8 +3,22 @@ layout: page
 title: "Estate eMTB"
 permalink: /Estate-eMTB/
 ---
+from facebook
+"Hey, I know this post is a couple of years old, and there’s almost no info out there on the TSDZ3, but I have the same motor on my estate eMTB, so I wanted to share some details that might help others.
+First, inside there’s a plastic nylon helical gear, and it will wear out eventually it’s just a matter of time. The TSDZ2 uses a similar design, but the bearing inside the gear is different, so the TSDZ2 gear won’t work directly on the TSDZ3.
+I made a CAD model on Thingiverse so you can CNC a brass replacement gear. You reuse the original bearing from the stock plastic gear and press it into the brass one. It improves durability a lot and should handle torque better as well.
+If you want a bit more speed, there’s a modding tool on AliExpress the same one used for the TSDZ2. There’s not a huge amount you can do with power, but you can squeeze a little more performance out of it. Also Going from 36V to 48V is possible, but it gets expensive fast since you’ll need to swap a lot of components.
+As for the controller, it’s basically the same as the TSDZ2 controller. The board itself is nearly identical, the main differences are the casing, mounting, and the position of some components/sensors. Because of that, you can sometimes repair the original controller by swapping over damaged components, or even transplant a TSDZ2 controller into the original TSDZ3 housing with some modification. Just keep in mind some components are laid out differently, so it’s not always plug-and-play.
+Hope this helps anyone looking for info on these motors."
 
-Let's start with the battery as it is probably the most expensive part that like all batteries goes end-of-life as it has a known limitied number of recharge cycles. After a limited number of recharge ccycles the battery will not hold enough charge to power the eMTB motor effectively.
+
+
+The mid-drive motor details are:
+-TONGSHENG middle motor TSZ3 DC36v 3200 rpm
+
+
+
+The battery is probably the most expensive part that like all batteries goes end-of-life as it has a known limitied number of recharge cycles. After a limited number of recharge cycles the battery will not hold enough charge to power the eMTB motor effectively.
 
 *Battery Details*
 
